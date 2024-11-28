@@ -1,7 +1,11 @@
 {
-    "name": "Мини-приложение",
-    "short_name": "МиниАпп",
-    "description": "Мое первое мини-приложение в Telegram",
+    "name": "Учебная Биржа",
+    "short_name": "Биржа",
+    "description": "Учебная криптовалютная биржа в Telegram",
     "version": "1.0.0",
-    "start_url": "/index.html"
+    "start_url": "/tg-mini-exchange/index.html",
+    "scope": "/tg-mini-exchange/",
+    "display": "standalone",
+    "background_color": "#ffffff",
+    "theme_color": "#000000"
 }
