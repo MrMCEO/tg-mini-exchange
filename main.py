@@ -1,10 +1,16 @@
-from http.server import HTTPServer, SimpleHTTPRequestHandler
+import telebot
 import json
+from http.server import HTTPServer, SimpleHTTPRequestHandler
 import threading
 from bybit_api import BybitManager, run_scheduler
 from logger import Logger
 
-# Создание логгера
+# Загрузка конфигурации
+with open('config.json', 'r', encoding='utf-8') as f:
+    config = json.load(f)
+
+# Инициализация бота
+bot = telebot.TeleBot(config['BOT_TOKEN'])
 logger = Logger()
 
 # Имитация базы данных
@@ -26,6 +32,21 @@ class Database:
                     'positions': {}    # Открытые позиции
                 }
             return self.users[user_id]
+
+# Обработчики команд бота
+@bot.message_handler(commands=['start'])
+def start(message):
+    web_app_url = config['WEBAPP_URL']
+    markup = telebot.types.InlineKeyboardMarkup()
+    markup.add(telebot.types.InlineKeyboardButton(
+        text="Открыть биржу",
+        web_app={"url": web_app_url}
+    ))
+    bot.send_message(
+        message.chat.id,
+        "Добро пожаловать в учебную биржу! Нажмите кнопку ниже, чтобы начать торговлю:",
+        reply_markup=markup
+    )
 
 class ExchangeHandler(SimpleHTTPRequestHandler):
     def do_OPTIONS(self):
@@ -98,11 +119,20 @@ class ExchangeHandler(SimpleHTTPRequestHandler):
 
 db = Database()
 
-def run(server_class=HTTPServer, handler_class=ExchangeHandler):
+def run_server():
     server_address = ('', 8000)
-    httpd = server_class(server_address, handler_class)
+    httpd = HTTPServer(server_address, ExchangeHandler)
     print('Starting server on port 8000...')
     httpd.serve_forever()
 
+def main():
+    # Запускаем веб-сервер в отдельном потоке
+    server_thread = threading.Thread(target=run_server, daemon=True)
+    server_thread.start()
+    
+    # Запускаем бота
+    print('Starting Telegram bot...')
+    bot.polling(none_stop=True)
+
 if __name__ == '__main__':
-    run()
+    main()
