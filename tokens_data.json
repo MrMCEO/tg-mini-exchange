@@ -1,0 +1,3656 @@
+{
+    "BTC": {
+        "symbol": "BTCUSDT",
+        "price": 96163.58,
+        "volume_24h": 36019.248575,
+        "price_change_24h": 4.1000000000000005,
+        "last_update": "2024-11-27T23:31:03.487615"
+    },
+    "ETH": {
+        "symbol": "ETHUSDT",
+        "price": 3579.55,
+        "volume_24h": 255711.74529,
+        "price_change_24h": 9.31,
+        "last_update": "2024-11-27T23:31:03.487615"
+    },
+    "XRP": {
+        "symbol": "XRPUSDT",
+        "price": 1.4892,
+        "volume_24h": 203971769.78,
+        "price_change_24h": 10.23,
+        "last_update": "2024-11-27T23:31:03.487615"
+    },
+    "EOS": {
+        "symbol": "EOSUSDT",
+        "price": 0.8184,
+        "volume_24h": 12975314.31,
+        "price_change_24h": 5.8999999999999995,
+        "last_update": "2024-11-27T23:31:03.487615"
+    },
+    "DOT": {
+        "symbol": "DOTUSDT",
+        "price": 8.37,
+        "volume_24h": 2657596.514,
+        "price_change_24h": 6.34,
+        "last_update": "2024-11-27T23:31:03.487615"
+    },
+    "XLM": {
+        "symbol": "XLMUSDT",
+        "price": 0.50577,
+        "volume_24h": 245203625.9,
+        "price_change_24h": 16.7,
+        "last_update": "2024-11-27T23:31:03.487615"
+    },
+    "LTC": {
+        "symbol": "LTCUSDT",
+        "price": 96.91,
+        "volume_24h": 179196.06045,
+        "price_change_24h": 8.06,
+        "last_update": "2024-11-27T23:31:03.487615"
+    },
+    "DOGE": {
+        "symbol": "DOGEUSDT",
+        "price": 0.40115,
+        "volume_24h": 380268770.6,
+        "price_change_24h": 7.12,
+        "last_update": "2024-11-27T23:31:03.487615"
+    },
+    "CHZ": {
+        "symbol": "CHZUSDT",
+        "price": 0.0936,
+        "volume_24h": 32389494.84,
+        "price_change_24h": 7.46,
+        "last_update": "2024-11-27T23:31:03.487615"
+    },
+    "AXS": {
+        "symbol": "AXSUSDT",
+        "price": 7.7685,
+        "volume_24h": 254704.16,
+        "price_change_24h": 10.6,
+        "last_update": "2024-11-27T23:31:03.487615"
+    },
+    "MANA": {
+        "symbol": "MANAUSDT",
+        "price": 0.6173,
+        "volume_24h": 13518517.53,
+        "price_change_24h": 8.07,
+        "last_update": "2024-11-27T23:31:03.487615"
+    },
+    "DYDX": {
+        "symbol": "DYDXUSDT",
+        "price": 1.626,
+        "volume_24h": 4611796.78,
+        "price_change_24h": 14.430000000000001,
+        "last_update": "2024-11-27T23:31:03.487615"
+    },
+    "MKR": {
+        "symbol": "MKRUSDT",
+        "price": 1811.2,
+        "volume_24h": 1187.0865,
+        "price_change_24h": 6.84,
+        "last_update": "2024-11-27T23:31:03.487615"
+    },
+    "COMP": {
+        "symbol": "COMPUSDT",
+        "price": 71.16,
+        "volume_24h": 10402.114,
+        "price_change_24h": 13.420000000000002,
+        "last_update": "2024-11-27T23:31:03.487615"
+    },
+    "AAVE": {
+        "symbol": "AAVEUSDT",
+        "price": 199.9371,
+        "volume_24h": 71307.506,
+        "price_change_24h": 17.119999999999997,
+        "last_update": "2024-11-27T23:31:03.487615"
+    },
+    "YFI": {
+        "symbol": "YFIUSDT",
+        "price": 7515.52,
+        "volume_24h": 246.74613,
+        "price_change_24h": 8.28,
+        "last_update": "2024-11-27T23:31:03.487615"
+    },
+    "LINK": {
+        "symbol": "LINKUSDT",
+        "price": 18.1975,
+        "volume_24h": 1594116.602,
+        "price_change_24h": 8.129999999999999,
+        "last_update": "2024-11-27T23:31:03.487615"
+    },
+    "SUSHI": {
+        "symbol": "SUSHIUSDT",
+        "price": 1.164,
+        "volume_24h": 5168838.711,
+        "price_change_24h": 18.529999999999998,
+        "last_update": "2024-11-27T23:31:03.487615"
+    },
+    "UNI": {
+        "symbol": "UNIUSDT",
+        "price": 13.2086,
+        "volume_24h": 1569847.564,
+        "price_change_24h": 24.48,
+        "last_update": "2024-11-27T23:31:03.487615"
+    },
+    "KSM": {
+        "symbol": "KSMUSDT",
+        "price": 37.17,
+        "volume_24h": 84861.349,
+        "price_change_24h": 4.5,
+        "last_update": "2024-11-27T23:31:03.487615"
+    },
+    "ICP": {
+        "symbol": "ICPUSDT",
+        "price": 11.5514,
+        "volume_24h": 907148.27,
+        "price_change_24h": 7.140000000000001,
+        "last_update": "2024-11-27T23:31:03.487615"
+    },
+    "ADA": {
+        "symbol": "ADAUSDT",
+        "price": 1.0263,
+        "volume_24h": 53891139.35,
+        "price_change_24h": 13.52,
+        "last_update": "2024-11-27T23:31:03.487615"
+    },
+    "ETC": {
+        "symbol": "ETCUSDT",
+        "price": 30.36,
+        "volume_24h": 256381.84,
+        "price_change_24h": 9.76,
+        "last_update": "2024-11-27T23:31:03.487615"
+    },
+    "XTZ": {
+        "symbol": "XTZUSDT",
+        "price": 1.2748,
+        "volume_24h": 4960537.12,
+        "price_change_24h": 11.34,
+        "last_update": "2024-11-27T23:31:03.487615"
+    },
+    "BCH": {
+        "symbol": "BCHUSDT",
+        "price": 516.0,
+        "volume_24h": 23358.075,
+        "price_change_24h": 6.61,
+        "last_update": "2024-11-27T23:31:03.487615"
+    },
+    "QNT": {
+        "symbol": "QNTUSDT",
+        "price": 94.0,
+        "volume_24h": 35118.845,
+        "price_change_24h": 2.73,
+        "last_update": "2024-11-27T23:31:03.487615"
+    },
+    "USDC": {
+        "symbol": "USDCUSDT",
+        "price": 0.9989,
+        "volume_24h": 256303535.05,
+        "price_change_24h": -0.09,
+        "last_update": "2024-11-27T23:31:03.487615"
+    },
+    "GRT": {
+        "symbol": "GRTUSDT",
+        "price": 0.25777,
+        "volume_24h": 19616344.31,
+        "price_change_24h": 10.92,
+        "last_update": "2024-11-27T23:31:03.487615"
+    },
+    "SOL": {
+        "symbol": "SOLUSDT",
+        "price": 239.78,
+        "volume_24h": 936401.202,
+        "price_change_24h": 6.4399999999999995,
+        "last_update": "2024-11-27T23:31:03.487615"
+    },
+    "FIL": {
+        "symbol": "FILUSDT",
+        "price": 5.644,
+        "volume_24h": 2606875.12,
+        "price_change_24h": 8.1,
+        "last_update": "2024-11-27T23:31:03.487615"
+    },
+    "OMG": {
+        "symbol": "OMGUSDT",
+        "price": 0.4129,
+        "volume_24h": 867365.363,
+        "price_change_24h": 14.16,
+        "last_update": "2024-11-27T23:31:03.487615"
+    },
+    "BAT": {
+        "symbol": "BATUSDT",
+        "price": 0.3009,
+        "volume_24h": 552522.49,
+        "price_change_24h": 11.82,
+        "last_update": "2024-11-27T23:31:03.487615"
+    },
+    "ZRX": {
+        "symbol": "ZRXUSDT",
+        "price": 0.5643,
+        "volume_24h": 9129482.36,
+        "price_change_24h": 10.09,
+        "last_update": "2024-11-27T23:31:03.487615"
+    },
+    "CRV": {
+        "symbol": "CRVUSDT",
+        "price": 0.5077,
+        "volume_24h": 8656232.31,
+        "price_change_24h": 7.59,
+        "last_update": "2024-11-27T23:31:03.487615"
+    },
+    "AGLD": {
+        "symbol": "AGLDUSDT",
+        "price": 1.3744,
+        "volume_24h": 136164.67,
+        "price_change_24h": 7.62,
+        "last_update": "2024-11-27T23:31:03.487615"
+    },
+    "ANKR": {
+        "symbol": "ANKRUSDT",
+        "price": 0.04275,
+        "volume_24h": 9691828.0,
+        "price_change_24h": 9.87,
+        "last_update": "2024-11-27T23:31:03.487615"
+    },
+    "PERP": {
+        "symbol": "PERPUSDT",
+        "price": 0.9122,
+        "volume_24h": 691213.94,
+        "price_change_24h": 16.41,
+        "last_update": "2024-11-27T23:31:03.487615"
+    },
+    "WAVES": {
+        "symbol": "WAVESUSDT",
+        "price": 1.7095,
+        "volume_24h": 1489470.41,
+        "price_change_24h": 7.71,
+        "last_update": "2024-11-27T23:31:03.487615"
+    },
+    "LUNC": {
+        "symbol": "LUNCUSDT",
+        "price": 0.00012042,
+        "volume_24h": 6835962991.338,
+        "price_change_24h": 6.65,
+        "last_update": "2024-11-27T23:31:03.487615"
+    },
+    "SPELL": {
+        "symbol": "SPELLUSDT",
+        "price": 0.0008527,
+        "volume_24h": 110987024.9,
+        "price_change_24h": 9.969999999999999,
+        "last_update": "2024-11-27T23:31:03.487615"
+    },
+    "SHIB": {
+        "symbol": "SHIBUSDT",
+        "price": 2.54416e-05,
+        "volume_24h": 836949122260.7,
+        "price_change_24h": 7.049999999999999,
+        "last_update": "2024-11-27T23:31:03.487615"
+    },
+    "FTM": {
+        "symbol": "FTMUSDT",
+        "price": 1.05285,
+        "volume_24h": 33357055.33,
+        "price_change_24h": 2.3800000000000003,
+        "last_update": "2024-11-27T23:31:03.487615"
+    },
+    "ATOM": {
+        "symbol": "ATOMUSDT",
+        "price": 8.184,
+        "volume_24h": 1481418.215,
+        "price_change_24h": 5.79,
+        "last_update": "2024-11-27T23:31:03.487615"
+    },
+    "ALGO": {
+        "symbol": "ALGOUSDT",
+        "price": 0.29772,
+        "volume_24h": 58846548.97,
+        "price_change_24h": 7.01,
+        "last_update": "2024-11-27T23:31:03.487615"
+    },
+    "ENJ": {
+        "symbol": "ENJUSDT",
+        "price": 0.28108,
+        "volume_24h": 1651628.8,
+        "price_change_24h": 3.4099999999999997,
+        "last_update": "2024-11-27T23:31:03.487615"
+    },
+    "CBX": {
+        "symbol": "CBXUSDT",
+        "price": 0.00365,
+        "volume_24h": 5433507.09,
+        "price_change_24h": 0.83,
+        "last_update": "2024-11-27T23:31:03.487615"
+    },
+    "SAND": {
+        "symbol": "SANDUSDT",
+        "price": 0.61653,
+        "volume_24h": 37640699.43,
+        "price_change_24h": 4.64,
+        "last_update": "2024-11-27T23:31:03.487615"
+    },
+    "AVAX": {
+        "symbol": "AVAXUSDT",
+        "price": 43.146,
+        "volume_24h": 1163120.912,
+        "price_change_24h": 5.11,
+        "last_update": "2024-11-27T23:31:03.487615"
+    },
+    "WOO": {
+        "symbol": "WOOUSDT",
+        "price": 0.27128,
+        "volume_24h": 8845348.05,
+        "price_change_24h": 15.43,
+        "last_update": "2024-11-27T23:31:03.487615"
+    },
+    "FTT": {
+        "symbol": "FTTUSDT",
+        "price": 2.3136,
+        "volume_24h": 599378.73,
+        "price_change_24h": 8.03,
+        "last_update": "2024-11-27T23:31:03.487615"
+    },
+    "GODS": {
+        "symbol": "GODSUSDT",
+        "price": 0.23487,
+        "volume_24h": 341671.71,
+        "price_change_24h": 8.23,
+        "last_update": "2024-11-27T23:31:03.487615"
+    },
+    "IMX": {
+        "symbol": "IMXUSDT",
+        "price": 1.75509,
+        "volume_24h": 2453789.01,
+        "price_change_24h": 7.46,
+        "last_update": "2024-11-27T23:31:03.487615"
+    },
+    "ENS": {
+        "symbol": "ENSUSDT",
+        "price": 25.983,
+        "volume_24h": 456265.74,
+        "price_change_24h": 19.470000000000002,
+        "last_update": "2024-11-27T23:31:03.487615"
+    },
+    "CAKE": {
+        "symbol": "CAKEUSDT",
+        "price": 3.1152,
+        "volume_24h": 1172030.889,
+        "price_change_24h": 21.54,
+        "last_update": "2024-11-27T23:31:03.487615"
+    },
+    "STETH": {
+        "symbol": "STETHUSDT",
+        "price": 3578.04,
+        "volume_24h": 13928.76681,
+        "price_change_24h": 9.32,
+        "last_update": "2024-11-27T23:31:03.487615"
+    },
+    "GALFT": {
+        "symbol": "GALFTUSDT",
+        "price": 1.73383,
+        "volume_24h": 6573.91,
+        "price_change_24h": 1.49,
+        "last_update": "2024-11-27T23:31:03.487615"
+    },
+    "SLP": {
+        "symbol": "SLPUSDT",
+        "price": 0.003668,
+        "volume_24h": 19774405.1,
+        "price_change_24h": 9.56,
+        "last_update": "2024-11-27T23:31:03.487615"
+    },
+    "C98": {
+        "symbol": "C98USDT",
+        "price": 0.1817,
+        "volume_24h": 13466152.1,
+        "price_change_24h": 12.58,
+        "last_update": "2024-11-27T23:31:03.487615"
+    },
+    "PSP": {
+        "symbol": "PSPUSDT",
+        "price": 0.018311,
+        "volume_24h": 2106821.55,
+        "price_change_24h": 5.72,
+        "last_update": "2024-11-27T23:31:03.487615"
+    },
+    "GENE": {
+        "symbol": "GENEUSDT",
+        "price": 0.0684,
+        "volume_24h": 1395519.49,
+        "price_change_24h": 6.21,
+        "last_update": "2024-11-27T23:31:03.487615"
+    },
+    "AVA": {
+        "symbol": "AVAUSDT",
+        "price": 0.5913,
+        "volume_24h": 151459.24,
+        "price_change_24h": 9.91,
+        "last_update": "2024-11-27T23:31:03.487615"
+    },
+    "ONE": {
+        "symbol": "ONEUSDT",
+        "price": 0.02407,
+        "volume_24h": 35988721.26,
+        "price_change_24h": 7.5,
+        "last_update": "2024-11-27T23:31:03.487615"
+    },
+    "PTU": {
+        "symbol": "PTUUSDT",
+        "price": 0.2022,
+        "volume_24h": 135505.519,
+        "price_change_24h": -3.16,
+        "last_update": "2024-11-27T23:31:03.487615"
+    },
+    "XYM": {
+        "symbol": "XYMUSDT",
+        "price": 0.02546,
+        "volume_24h": 5594453.78,
+        "price_change_24h": 4.26,
+        "last_update": "2024-11-27T23:31:03.487615"
+    },
+    "BOBA": {
+        "symbol": "BOBAUSDT",
+        "price": 0.26579,
+        "volume_24h": 8560115.96,
+        "price_change_24h": -0.89,
+        "last_update": "2024-11-27T23:31:03.487615"
+    },
+    "JASMY": {
+        "symbol": "JASMYUSDT",
+        "price": 0.025639,
+        "volume_24h": 184552548.32,
+        "price_change_24h": 12.959999999999999,
+        "last_update": "2024-11-27T23:31:03.487615"
+    },
+    "GALA": {
+        "symbol": "GALAUSDT",
+        "price": 0.03785,
+        "volume_24h": 340516077.71,
+        "price_change_24h": 7.380000000000001,
+        "last_update": "2024-11-27T23:31:03.487615"
+    },
+    "TRVL": {
+        "symbol": "TRVLUSDT",
+        "price": 0.058144,
+        "volume_24h": 264768.2,
+        "price_change_24h": 3.7600000000000002,
+        "last_update": "2024-11-27T23:31:03.487615"
+    },
+    "WEMIX": {
+        "symbol": "WEMIXUSDT",
+        "price": 1.2482,
+        "volume_24h": 208224.547,
+        "price_change_24h": 6.4,
+        "last_update": "2024-11-27T23:31:03.487615"
+    },
+    "XEM": {
+        "symbol": "XEMUSDT",
+        "price": 0.02852,
+        "volume_24h": 10737553.77,
+        "price_change_24h": 4.78,
+        "last_update": "2024-11-27T23:31:03.487615"
+    },
+    "BICO": {
+        "symbol": "BICOUSDT",
+        "price": 0.3699,
+        "volume_24h": 3368240.89,
+        "price_change_24h": 11.25,
+        "last_update": "2024-11-27T23:31:03.487615"
+    },
+    "CEL": {
+        "symbol": "CELUSDT",
+        "price": 0.2443,
+        "volume_24h": 1051824.76,
+        "price_change_24h": 5.3,
+        "last_update": "2024-11-27T23:31:03.487615"
+    },
+    "UMA": {
+        "symbol": "UMAUSDT",
+        "price": 3.0699,
+        "volume_24h": 113634.131,
+        "price_change_24h": 13.450000000000001,
+        "last_update": "2024-11-27T23:31:03.487615"
+    },
+    "HOT": {
+        "symbol": "HOTUSDT",
+        "price": 0.00293,
+        "volume_24h": 100028436.6,
+        "price_change_24h": 11.24,
+        "last_update": "2024-11-27T23:31:03.487615"
+    },
+    "NEXO": {
+        "symbol": "NEXOUSDT",
+        "price": 1.4223,
+        "volume_24h": 24975.57,
+        "price_change_24h": 7.32,
+        "last_update": "2024-11-27T23:31:03.487615"
+    },
+    "BNT": {
+        "symbol": "BNTUSDT",
+        "price": 0.7343,
+        "volume_24h": 34903.03,
+        "price_change_24h": 9.629999999999999,
+        "last_update": "2024-11-27T23:31:03.487615"
+    },
+    "SNX": {
+        "symbol": "SNXUSDT",
+        "price": 2.4508,
+        "volume_24h": 1167726.6,
+        "price_change_24h": 17.47,
+        "last_update": "2024-11-27T23:31:03.487615"
+    },
+    "REN": {
+        "symbol": "RENUSDT",
+        "price": 0.04121,
+        "volume_24h": 9685335.56,
+        "price_change_24h": 1.68,
+        "last_update": "2024-11-27T23:31:03.487615"
+    },
+    "1INCH": {
+        "symbol": "1INCHUSDT",
+        "price": 0.416,
+        "volume_24h": 7868042.52,
+        "price_change_24h": 13.29,
+        "last_update": "2024-11-27T23:31:03.487615"
+    },
+    "TEL": {
+        "symbol": "TELUSDT",
+        "price": 0.005316,
+        "volume_24h": 283519748.3,
+        "price_change_24h": 42.86,
+        "last_update": "2024-11-27T23:31:03.487615"
+    },
+    "SIS": {
+        "symbol": "SISUSDT",
+        "price": 0.14048,
+        "volume_24h": 375487.19,
+        "price_change_24h": 17.47,
+        "last_update": "2024-11-27T23:31:03.487615"
+    },
+    "LRC": {
+        "symbol": "LRCUSDT",
+        "price": 0.2287,
+        "volume_24h": 5141124.74,
+        "price_change_24h": 10.43,
+        "last_update": "2024-11-27T23:31:03.487615"
+    },
+    "LDO": {
+        "symbol": "LDOUSDT",
+        "price": 1.7084,
+        "volume_24h": 11604745.53,
+        "price_change_24h": 9.99,
+        "last_update": "2024-11-27T23:31:03.487615"
+    },
+    "REAL": {
+        "symbol": "REALUSDT",
+        "price": 0.02637,
+        "volume_24h": 6950156.49,
+        "price_change_24h": 11.55,
+        "last_update": "2024-11-27T23:31:03.487615"
+    },
+    "1SOL": {
+        "symbol": "1SOLUSDT",
+        "price": 0.010669,
+        "volume_24h": 3229270.83,
+        "price_change_24h": 9.39,
+        "last_update": "2024-11-27T23:31:03.487615"
+    },
+    "PLT": {
+        "symbol": "PLTUSDT",
+        "price": 0.04206,
+        "volume_24h": 3650397.71,
+        "price_change_24h": 7.8100000000000005,
+        "last_update": "2024-11-27T23:31:03.487615"
+    },
+    "IZI": {
+        "symbol": "IZIUSDT",
+        "price": 0.010189,
+        "volume_24h": 9898932.13,
+        "price_change_24h": 1.7000000000000002,
+        "last_update": "2024-11-27T23:31:03.487615"
+    },
+    "QTUM": {
+        "symbol": "QTUMUSDT",
+        "price": 3.6395,
+        "volume_24h": 50466.874,
+        "price_change_24h": 6.12,
+        "last_update": "2024-11-27T23:31:03.487615"
+    },
+    "ZEN": {
+        "symbol": "ZENUSDT",
+        "price": 15.3982,
+        "volume_24h": 244945.963,
+        "price_change_24h": 37.19,
+        "last_update": "2024-11-27T23:31:03.487615"
+    },
+    "THETA": {
+        "symbol": "THETAUSDT",
+        "price": 2.038,
+        "volume_24h": 2593692.89,
+        "price_change_24h": 4.16,
+        "last_update": "2024-11-27T23:31:03.487615"
+    },
+    "MX": {
+        "symbol": "MXUSDT",
+        "price": 3.2157,
+        "volume_24h": 11505.57,
+        "price_change_24h": 3.0700000000000003,
+        "last_update": "2024-11-27T23:31:03.487615"
+    },
+    "DGB": {
+        "symbol": "DGBUSDT",
+        "price": 0.011231,
+        "volume_24h": 33550429.92,
+        "price_change_24h": 10.6,
+        "last_update": "2024-11-27T23:31:03.487615"
+    },
+    "RVN": {
+        "symbol": "RVNUSDT",
+        "price": 0.02425,
+        "volume_24h": 16512229.7,
+        "price_change_24h": 8.74,
+        "last_update": "2024-11-27T23:31:03.487615"
+    },
+    "EGLD": {
+        "symbol": "EGLDUSDT",
+        "price": 37.35,
+        "volume_24h": 49447.345,
+        "price_change_24h": 6.65,
+        "last_update": "2024-11-27T23:31:03.487615"
+    },
+    "RUNE": {
+        "symbol": "RUNEUSDT",
+        "price": 5.6024,
+        "volume_24h": 1213087.7,
+        "price_change_24h": 8.43,
+        "last_update": "2024-11-27T23:31:03.487615"
+    },
+    "RAIN": {
+        "symbol": "RAINUSDT",
+        "price": 0.0004759,
+        "volume_24h": 419059151.1,
+        "price_change_24h": 6.47,
+        "last_update": "2024-11-27T23:31:03.487615"
+    },
+    "XEC": {
+        "symbol": "XECUSDT",
+        "price": 4.712e-05,
+        "volume_24h": 15674580249.3,
+        "price_change_24h": 7.26,
+        "last_update": "2024-11-27T23:31:03.487615"
+    },
+    "ICX": {
+        "symbol": "ICXUSDT",
+        "price": 0.21561,
+        "volume_24h": 1825777.69,
+        "price_change_24h": 6.45,
+        "last_update": "2024-11-27T23:31:03.487615"
+    },
+    "XDC": {
+        "symbol": "XDCUSDT",
+        "price": 0.05621,
+        "volume_24h": 47923986.4,
+        "price_change_24h": 2.13,
+        "last_update": "2024-11-27T23:31:03.487615"
+    },
+    "HNT": {
+        "symbol": "HNTUSDT",
+        "price": 6.5286,
+        "volume_24h": 521491.177,
+        "price_change_24h": 8.23,
+        "last_update": "2024-11-27T23:31:03.487615"
+    },
+    "BTG": {
+        "symbol": "BTGUSDT",
+        "price": 31.88,
+        "volume_24h": 2228.234,
+        "price_change_24h": 4.29,
+        "last_update": "2024-11-27T23:31:03.487615"
+    },
+    "ZIL": {
+        "symbol": "ZILUSDT",
+        "price": 0.02536,
+        "volume_24h": 70399047.3,
+        "price_change_24h": 9.17,
+        "last_update": "2024-11-27T23:31:03.487615"
+    },
+    "HBAR": {
+        "symbol": "HBARUSDT",
+        "price": 0.14449,
+        "volume_24h": 135243025.16,
+        "price_change_24h": 6.5,
+        "last_update": "2024-11-27T23:31:03.487615"
+    },
+    "FLOW": {
+        "symbol": "FLOWUSDT",
+        "price": 0.8905,
+        "volume_24h": 1670375.94,
+        "price_change_24h": 5.36,
+        "last_update": "2024-11-27T23:31:03.487615"
+    },
+    "KASTA": {
+        "symbol": "KASTAUSDT",
+        "price": 0.023464,
+        "volume_24h": 4717796.2,
+        "price_change_24h": 3.63,
+        "last_update": "2024-11-27T23:31:03.487615"
+    },
+    "STX": {
+        "symbol": "STXUSDT",
+        "price": 2.18467,
+        "volume_24h": 3541498.48,
+        "price_change_24h": 6.49,
+        "last_update": "2024-11-27T23:31:03.487615"
+    },
+    "SIDUS": {
+        "symbol": "SIDUSUSDT",
+        "price": 0.0046192,
+        "volume_24h": 59779986.35,
+        "price_change_24h": 4.5600000000000005,
+        "last_update": "2024-11-27T23:31:03.487615"
+    },
+    "VPAD": {
+        "symbol": "VPADUSDT",
+        "price": 0.011539,
+        "volume_24h": 3217724.94,
+        "price_change_24h": -4.65,
+        "last_update": "2024-11-27T23:31:03.487615"
+    },
+    "LOOKS": {
+        "symbol": "LOOKSUSDT",
+        "price": 0.0598,
+        "volume_24h": 8841159.78,
+        "price_change_24h": 14.12,
+        "last_update": "2024-11-27T23:31:03.487615"
+    },
+    "MBS": {
+        "symbol": "MBSUSDT",
+        "price": 0.017937,
+        "volume_24h": 7190024.44,
+        "price_change_24h": 0.9299999999999999,
+        "last_update": "2024-11-27T23:31:03.487615"
+    },
+    "DAI": {
+        "symbol": "DAIUSDT",
+        "price": 0.9993,
+        "volume_24h": 968267.55,
+        "price_change_24h": 0.0,
+        "last_update": "2024-11-27T23:31:03.487615"
+    },
+    "ACA": {
+        "symbol": "ACAUSDT",
+        "price": 0.0943,
+        "volume_24h": 1740375.29,
+        "price_change_24h": 5.36,
+        "last_update": "2024-11-27T23:31:03.487615"
+    },
+    "MV": {
+        "symbol": "MVUSDT",
+        "price": 0.009802,
+        "volume_24h": 23010219.53,
+        "price_change_24h": -0.91,
+        "last_update": "2024-11-27T23:31:03.487615"
+    },
+    "MIX": {
+        "symbol": "MIXUSDT",
+        "price": 0.001647,
+        "volume_24h": 41524522.55,
+        "price_change_24h": -0.06,
+        "last_update": "2024-11-27T23:31:03.487615"
+    },
+    "RSS3": {
+        "symbol": "RSS3USDT",
+        "price": 0.13317,
+        "volume_24h": 1756401.76,
+        "price_change_24h": 12.15,
+        "last_update": "2024-11-27T23:31:03.487615"
+    },
+    "TAP": {
+        "symbol": "TAPUSDT",
+        "price": 0.00096,
+        "volume_24h": 39476513.41,
+        "price_change_24h": 2.13,
+        "last_update": "2024-11-27T23:31:03.487615"
+    },
+    "ERTHA": {
+        "symbol": "ERTHAUSDT",
+        "price": 0.001071,
+        "volume_24h": 88103221.17,
+        "price_change_24h": -0.65,
+        "last_update": "2024-11-27T23:31:03.487615"
+    },
+    "GMX": {
+        "symbol": "GMXUSDT",
+        "price": 33.03,
+        "volume_24h": 14156.34,
+        "price_change_24h": 9.92,
+        "last_update": "2024-11-27T23:31:03.487615"
+    },
+    "T": {
+        "symbol": "TUSDT",
+        "price": 0.03404,
+        "volume_24h": 6272374.3,
+        "price_change_24h": 9.91,
+        "last_update": "2024-11-27T23:31:03.487615"
+    },
+    "ACH": {
+        "symbol": "ACHUSDT",
+        "price": 0.028658,
+        "volume_24h": 21936413.0,
+        "price_change_24h": 12.280000000000001,
+        "last_update": "2024-11-27T23:31:03.487615"
+    },
+    "JST": {
+        "symbol": "JSTUSDT",
+        "price": 0.03824,
+        "volume_24h": 2485068.13,
+        "price_change_24h": 5.75,
+        "last_update": "2024-11-27T23:31:03.487615"
+    },
+    "SUN": {
+        "symbol": "SUNUSDT",
+        "price": 0.022685,
+        "volume_24h": 7807979.65,
+        "price_change_24h": 11.61,
+        "last_update": "2024-11-27T23:31:03.487615"
+    },
+    "BTT": {
+        "symbol": "BTTUSDT",
+        "price": 1.3157e-06,
+        "volume_24h": 220079922136.0,
+        "price_change_24h": 6.72,
+        "last_update": "2024-11-27T23:31:03.487615"
+    },
+    "TRX": {
+        "symbol": "TRXUSDT",
+        "price": 0.20104,
+        "volume_24h": 77607248.24,
+        "price_change_24h": 6.1,
+        "last_update": "2024-11-27T23:31:03.487615"
+    },
+    "NFT": {
+        "symbol": "NFTUSDT",
+        "price": 5.079e-07,
+        "volume_24h": 57051541160.0,
+        "price_change_24h": 4.590000000000001,
+        "last_update": "2024-11-27T23:31:03.487615"
+    },
+    "POKT": {
+        "symbol": "POKTUSDT",
+        "price": 0.04986,
+        "volume_24h": 6764229.73,
+        "price_change_24h": 12.35,
+        "last_update": "2024-11-27T23:31:03.487615"
+    },
+    "SCRT": {
+        "symbol": "SCRTUSDT",
+        "price": 0.5811,
+        "volume_24h": 2516486.87,
+        "price_change_24h": 5.390000000000001,
+        "last_update": "2024-11-27T23:31:03.487615"
+    },
+    "PSTAKE": {
+        "symbol": "PSTAKEUSDT",
+        "price": 0.05522,
+        "volume_24h": 2317950.78,
+        "price_change_24h": 5.46,
+        "last_update": "2024-11-27T23:31:03.487615"
+    },
+    "SON": {
+        "symbol": "SONUSDT",
+        "price": 0.0002244,
+        "volume_24h": 47556950.83,
+        "price_change_24h": -0.4,
+        "last_update": "2024-11-27T23:31:03.487615"
+    },
+    "HERO": {
+        "symbol": "HEROUSDT",
+        "price": 0.001787,
+        "volume_24h": 2086370.61,
+        "price_change_24h": 3.0,
+        "last_update": "2024-11-27T23:31:03.487615"
+    },
+    "DOME": {
+        "symbol": "DOMEUSDT",
+        "price": 0.0002177,
+        "volume_24h": 326146231.76,
+        "price_change_24h": 6.819999999999999,
+        "last_update": "2024-11-27T23:31:03.487615"
+    },
+    "USTC": {
+        "symbol": "USTCUSDT",
+        "price": 0.02434,
+        "volume_24h": 29108962.96,
+        "price_change_24h": 7.04,
+        "last_update": "2024-11-27T23:31:03.487615"
+    },
+    "BNB": {
+        "symbol": "BNBUSDT",
+        "price": 637.61,
+        "volume_24h": 30827.32934,
+        "price_change_24h": 5.34,
+        "last_update": "2024-11-27T23:31:03.487615"
+    },
+    "NEAR": {
+        "symbol": "NEARUSDT",
+        "price": 6.6873,
+        "volume_24h": 4244546.76,
+        "price_change_24h": 11.05,
+        "last_update": "2024-11-27T23:31:03.487615"
+    },
+    "PAXG": {
+        "symbol": "PAXGUSDT",
+        "price": 2636.0,
+        "volume_24h": 29.187,
+        "price_change_24h": 0.3,
+        "last_update": "2024-11-27T23:31:03.487615"
+    },
+    "SD": {
+        "symbol": "SDUSDT",
+        "price": 1.0367,
+        "volume_24h": 437745.58,
+        "price_change_24h": 11.16,
+        "last_update": "2024-11-27T23:31:03.487615"
+    },
+    "APE": {
+        "symbol": "APEUSDT",
+        "price": 1.3067,
+        "volume_24h": 4437892.92,
+        "price_change_24h": 6.510000000000001,
+        "last_update": "2024-11-27T23:31:03.487615"
+    },
+    "BTC3S": {
+        "symbol": "BTC3SUSDT",
+        "price": 0.0247,
+        "volume_24h": 18855311.8759,
+        "price_change_24h": -8.18,
+        "last_update": "2024-11-27T23:31:03.487615"
+    },
+    "BTC3L": {
+        "symbol": "BTC3LUSDT",
+        "price": 8.4721,
+        "volume_24h": 116732.3734,
+        "price_change_24h": 9.030000000000001,
+        "last_update": "2024-11-27T23:31:03.487615"
+    },
+    "FIDA": {
+        "symbol": "FIDAUSDT",
+        "price": 0.2498,
+        "volume_24h": 3197379.52,
+        "price_change_24h": 9.370000000000001,
+        "last_update": "2024-11-27T23:31:03.487615"
+    },
+    "MINA": {
+        "symbol": "MINAUSDT",
+        "price": 0.7875,
+        "volume_24h": 2816876.98,
+        "price_change_24h": 8.14,
+        "last_update": "2024-11-27T23:31:03.487615"
+    },
+    "SC": {
+        "symbol": "SCUSDT",
+        "price": 0.007184,
+        "volume_24h": 149992296.0,
+        "price_change_24h": 3.6999999999999997,
+        "last_update": "2024-11-27T23:31:03.487615"
+    },
+    "RACA": {
+        "symbol": "RACAUSDT",
+        "price": 0.00023898,
+        "volume_24h": 1049840131.02,
+        "price_change_24h": 6.7299999999999995,
+        "last_update": "2024-11-27T23:31:03.487615"
+    },
+    "CAPS": {
+        "symbol": "CAPSUSDT",
+        "price": 0.005361,
+        "volume_24h": 21646386.02,
+        "price_change_24h": -2.62,
+        "last_update": "2024-11-27T23:31:03.487615"
+    },
+    "STG": {
+        "symbol": "STGUSDT",
+        "price": 0.3805,
+        "volume_24h": 1949680.54,
+        "price_change_24h": 8.959999999999999,
+        "last_update": "2024-11-27T23:31:03.487615"
+    },
+    "GLMR": {
+        "symbol": "GLMRUSDT",
+        "price": 0.2798,
+        "volume_24h": 1526347.28,
+        "price_change_24h": 9.81,
+        "last_update": "2024-11-27T23:31:03.487615"
+    },
+    "MOVR": {
+        "symbol": "MOVRUSDT",
+        "price": 16.494,
+        "volume_24h": 25827.27,
+        "price_change_24h": 6.79,
+        "last_update": "2024-11-27T23:31:03.487615"
+    },
+    "ZAM": {
+        "symbol": "ZAMUSDT",
+        "price": 0.00026112,
+        "volume_24h": 81349819.15,
+        "price_change_24h": 8.799999999999999,
+        "last_update": "2024-11-27T23:31:03.487615"
+    },
+    "WBTC": {
+        "symbol": "WBTCUSDT",
+        "price": 96113.49,
+        "volume_24h": 16.960214,
+        "price_change_24h": 4.03,
+        "last_update": "2024-11-27T23:31:03.487615"
+    },
+    "XAVA": {
+        "symbol": "XAVAUSDT",
+        "price": 0.8476,
+        "volume_24h": 85395.26,
+        "price_change_24h": 5.42,
+        "last_update": "2024-11-27T23:31:03.487615"
+    },
+    "MELOS": {
+        "symbol": "MELOSUSDT",
+        "price": 0.00209,
+        "volume_24h": 27139670.26,
+        "price_change_24h": -1.51,
+        "last_update": "2024-11-27T23:31:03.487615"
+    },
+    "GMT": {
+        "symbol": "GMTUSDT",
+        "price": 0.2064,
+        "volume_24h": 9385058.25,
+        "price_change_24h": 6.83,
+        "last_update": "2024-11-27T23:31:03.487615"
+    },
+    "GST": {
+        "symbol": "GSTUSDT",
+        "price": 0.01778,
+        "volume_24h": 17072084.36,
+        "price_change_24h": 8.35,
+        "last_update": "2024-11-27T23:31:03.487615"
+    },
+    "CELO": {
+        "symbol": "CELOUSDT",
+        "price": 0.8714,
+        "volume_24h": 2864785.34,
+        "price_change_24h": 7.93,
+        "last_update": "2024-11-27T23:31:03.487615"
+    },
+    "SFUND": {
+        "symbol": "SFUNDUSDT",
+        "price": 1.54006,
+        "volume_24h": 96432.71,
+        "price_change_24h": 8.53,
+        "last_update": "2024-11-27T23:31:03.487615"
+    },
+    "LGX": {
+        "symbol": "LGXUSDT",
+        "price": 0.001032,
+        "volume_24h": 106406738.16,
+        "price_change_24h": -9.71,
+        "last_update": "2024-11-27T23:31:03.487615"
+    },
+    "APEX": {
+        "symbol": "APEXUSDT",
+        "price": 1.8989,
+        "volume_24h": 26970142.08,
+        "price_change_24h": 7.430000000000001,
+        "last_update": "2024-11-27T23:31:03.487615"
+    },
+    "CTC": {
+        "symbol": "CTCUSDT",
+        "price": 0.948078,
+        "volume_24h": 3692358.41,
+        "price_change_24h": 15.809999999999999,
+        "last_update": "2024-11-27T23:31:03.487615"
+    },
+    "COT": {
+        "symbol": "COTUSDT",
+        "price": 0.004752,
+        "volume_24h": 7420655.83,
+        "price_change_24h": -3.55,
+        "last_update": "2024-11-27T23:31:03.487615"
+    },
+    "KMON": {
+        "symbol": "KMONUSDT",
+        "price": 0.000805,
+        "volume_24h": 8754168.33,
+        "price_change_24h": 0.63,
+        "last_update": "2024-11-27T23:31:03.487615"
+    },
+    "FITFI": {
+        "symbol": "FITFIUSDT",
+        "price": 0.00379,
+        "volume_24h": 44442805.14,
+        "price_change_24h": 14.19,
+        "last_update": "2024-11-27T23:31:03.487615"
+    },
+    "ETH3S": {
+        "symbol": "ETH3SUSDT",
+        "price": 0.00645,
+        "volume_24h": 51551684.048,
+        "price_change_24h": -24.21,
+        "last_update": "2024-11-27T23:31:03.487615"
+    },
+    "ETH3L": {
+        "symbol": "ETH3LUSDT",
+        "price": 1.9723,
+        "volume_24h": 719425.9477,
+        "price_change_24h": 28.810000000000002,
+        "last_update": "2024-11-27T23:31:03.487615"
+    },
+    "KOK": {
+        "symbol": "KOKUSDT",
+        "price": 0.000287,
+        "volume_24h": 64811443.06,
+        "price_change_24h": -8.309999999999999,
+        "last_update": "2024-11-27T23:31:03.487615"
+    },
+    "FAME": {
+        "symbol": "FAMEUSDT",
+        "price": 0.000281,
+        "volume_24h": 646522285.37,
+        "price_change_24h": 7.539999999999999,
+        "last_update": "2024-11-27T23:31:03.487615"
+    },
+    "USDD": {
+        "symbol": "USDDUSDT",
+        "price": 0.9999,
+        "volume_24h": 1202.65,
+        "price_change_24h": 0.44,
+        "last_update": "2024-11-27T23:31:03.487615"
+    },
+    "OP": {
+        "symbol": "OPUSDT",
+        "price": 2.3427,
+        "volume_24h": 12156471.78,
+        "price_change_24h": 8.9,
+        "last_update": "2024-11-27T23:31:03.487615"
+    },
+    "LUNA": {
+        "symbol": "LUNAUSDT",
+        "price": 0.4902,
+        "volume_24h": 2824748.97896,
+        "price_change_24h": 8.12,
+        "last_update": "2024-11-27T23:31:03.487615"
+    },
+    "DFI": {
+        "symbol": "DFIUSDT",
+        "price": 0.0212,
+        "volume_24h": 769770.23,
+        "price_change_24h": 31.269999999999996,
+        "last_update": "2024-11-27T23:31:03.487615"
+    },
+    "THN": {
+        "symbol": "THNUSDT",
+        "price": 0.001168,
+        "volume_24h": 11546647.78,
+        "price_change_24h": -1.43,
+        "last_update": "2024-11-27T23:31:03.487615"
+    },
+    "VINU": {
+        "symbol": "VINUUSDT",
+        "price": 3.4618e-08,
+        "volume_24h": 18374827385100.19,
+        "price_change_24h": 24.45,
+        "last_update": "2024-11-27T23:31:03.487615"
+    },
+    "BEL": {
+        "symbol": "BELUSDT",
+        "price": 0.686,
+        "volume_24h": 103272.0,
+        "price_change_24h": 11.85,
+        "last_update": "2024-11-27T23:31:03.487615"
+    },
+    "FORT": {
+        "symbol": "FORTUSDT",
+        "price": 0.1198,
+        "volume_24h": 1234320.75,
+        "price_change_24h": 11.03,
+        "last_update": "2024-11-27T23:31:03.487615"
+    },
+    "WLKN": {
+        "symbol": "WLKNUSDT",
+        "price": 0.001415,
+        "volume_24h": 269021248.45,
+        "price_change_24h": 4.58,
+        "last_update": "2024-11-27T23:31:03.487615"
+    },
+    "KON": {
+        "symbol": "KONUSDT",
+        "price": 0.0002416,
+        "volume_24h": 306033672.49,
+        "price_change_24h": 1.68,
+        "last_update": "2024-11-27T23:31:03.487615"
+    },
+    "OBX": {
+        "symbol": "OBXUSDT",
+        "price": 3.6e-05,
+        "volume_24h": 685581298.32,
+        "price_change_24h": -3.2300000000000004,
+        "last_update": "2024-11-27T23:31:03.487615"
+    },
+    "SEOR": {
+        "symbol": "SEORUSDT",
+        "price": 0.0005608,
+        "volume_24h": 187168874.65,
+        "price_change_24h": 0.38,
+        "last_update": "2024-11-27T23:31:03.487615"
+    },
+    "CUSD": {
+        "symbol": "CUSDUSDT",
+        "price": 0.9967,
+        "volume_24h": 11243.99,
+        "price_change_24h": -0.18,
+        "last_update": "2024-11-27T23:31:03.487615"
+    },
+    "GSTS": {
+        "symbol": "GSTSUSDT",
+        "price": 0.002253,
+        "volume_24h": 17565240.84,
+        "price_change_24h": 0.8500000000000001,
+        "last_update": "2024-11-27T23:31:03.487615"
+    },
+    "XETA": {
+        "symbol": "XETAUSDT",
+        "price": 0.0031,
+        "volume_24h": 135788573.9,
+        "price_change_24h": 17.07,
+        "last_update": "2024-11-27T23:31:03.487615"
+    },
+    "AZY": {
+        "symbol": "AZYUSDT",
+        "price": 0.001046,
+        "volume_24h": 242216630.18,
+        "price_change_24h": -30.819999999999997,
+        "last_update": "2024-11-27T23:31:03.487615"
+    },
+    "FLOKI": {
+        "symbol": "FLOKIUSDT",
+        "price": 0.00022569,
+        "volume_24h": 37520294999.2,
+        "price_change_24h": 7.89,
+        "last_update": "2024-11-27T23:31:03.487615"
+    },
+    "BABYDOGE": {
+        "symbol": "BABYDOGEUSDT",
+        "price": 2.373e-09,
+        "volume_24h": 852864436979984.2,
+        "price_change_24h": 8.55,
+        "last_update": "2024-11-27T23:31:03.487615"
+    },
+    "STAT": {
+        "symbol": "STATUSDT",
+        "price": 0.0833,
+        "volume_24h": 157306.11,
+        "price_change_24h": 4.390000000000001,
+        "last_update": "2024-11-27T23:31:03.487615"
+    },
+    "DICE": {
+        "symbol": "DICEUSDT",
+        "price": 0.00728,
+        "volume_24h": 470743.42,
+        "price_change_24h": -1.8900000000000001,
+        "last_update": "2024-11-27T23:31:03.487615"
+    },
+    "WAXP": {
+        "symbol": "WAXPUSDT",
+        "price": 0.05488,
+        "volume_24h": 24923466.5,
+        "price_change_24h": 5.82,
+        "last_update": "2024-11-27T23:31:03.487615"
+    },
+    "AR": {
+        "symbol": "ARUSDT",
+        "price": 20.79,
+        "volume_24h": 349307.79,
+        "price_change_24h": 8.17,
+        "last_update": "2024-11-27T23:31:03.487615"
+    },
+    "KDA": {
+        "symbol": "KDAUSDT",
+        "price": 1.1308,
+        "volume_24h": 3101529.88,
+        "price_change_24h": 22.37,
+        "last_update": "2024-11-27T23:31:03.487615"
+    },
+    "ROSE": {
+        "symbol": "ROSEUSDT",
+        "price": 0.09585,
+        "volume_24h": 17153399.79,
+        "price_change_24h": 9.64,
+        "last_update": "2024-11-27T23:31:03.487615"
+    },
+    "PSG": {
+        "symbol": "PSGUSDT",
+        "price": 2.9508,
+        "volume_24h": 218590.84,
+        "price_change_24h": -8.75,
+        "last_update": "2024-11-27T23:31:03.487615"
+    },
+    "JUV": {
+        "symbol": "JUVUSDT",
+        "price": 1.7023,
+        "volume_24h": 46160.03,
+        "price_change_24h": -2.45,
+        "last_update": "2024-11-27T23:31:03.487615"
+    },
+    "INTER": {
+        "symbol": "INTERUSDT",
+        "price": 1.3188,
+        "volume_24h": 70751.74,
+        "price_change_24h": -1.79,
+        "last_update": "2024-11-27T23:31:03.487615"
+    },
+    "AFC": {
+        "symbol": "AFCUSDT",
+        "price": 0.8951,
+        "volume_24h": 25139.12,
+        "price_change_24h": -0.2,
+        "last_update": "2024-11-27T23:31:03.487615"
+    },
+    "CITY": {
+        "symbol": "CITYUSDT",
+        "price": 2.0742,
+        "volume_24h": 17318.61,
+        "price_change_24h": -0.76,
+        "last_update": "2024-11-27T23:31:03.487615"
+    },
+    "SOLO": {
+        "symbol": "SOLOUSDT",
+        "price": 0.62138,
+        "volume_24h": 3031051.37,
+        "price_change_24h": -2.3800000000000003,
+        "last_update": "2024-11-27T23:31:03.487615"
+    },
+    "CHRP": {
+        "symbol": "CHRPUSDT",
+        "price": 0.005103,
+        "volume_24h": 9202723.27,
+        "price_change_24h": 4.53,
+        "last_update": "2024-11-27T23:31:03.487615"
+    },
+    "WWY": {
+        "symbol": "WWYUSDT",
+        "price": 0.001061,
+        "volume_24h": 899551503.47,
+        "price_change_24h": -12.82,
+        "last_update": "2024-11-27T23:31:03.487615"
+    },
+    "SWEAT": {
+        "symbol": "SWEATUSDT",
+        "price": 0.007985,
+        "volume_24h": 88364274.81,
+        "price_change_24h": 2.74,
+        "last_update": "2024-11-27T23:31:03.487615"
+    },
+    "DLC": {
+        "symbol": "DLCUSDT",
+        "price": 0.19222,
+        "volume_24h": 575814.61,
+        "price_change_24h": 3.84,
+        "last_update": "2024-11-27T23:31:03.487615"
+    },
+    "ETHW": {
+        "symbol": "ETHWUSDT",
+        "price": 3.928,
+        "volume_24h": 224204.25,
+        "price_change_24h": 17.7,
+        "last_update": "2024-11-27T23:31:03.487615"
+    },
+    "INJ": {
+        "symbol": "INJUSDT",
+        "price": 30.121,
+        "volume_24h": 591732.48,
+        "price_change_24h": 2.29,
+        "last_update": "2024-11-27T23:31:03.487615"
+    },
+    "MPLX": {
+        "symbol": "MPLXUSDT",
+        "price": 0.34815,
+        "volume_24h": 2240374.23,
+        "price_change_24h": 13.489999999999998,
+        "last_update": "2024-11-27T23:31:03.487615"
+    },
+    "AGLA": {
+        "symbol": "AGLAUSDT",
+        "price": 0.002793,
+        "volume_24h": 14017815.56,
+        "price_change_24h": -0.6,
+        "last_update": "2024-11-27T23:31:03.487615"
+    },
+    "ROND": {
+        "symbol": "RONDUSDT",
+        "price": 0.001207,
+        "volume_24h": 416479913.46,
+        "price_change_24h": 44.74,
+        "last_update": "2024-11-27T23:31:03.487615"
+    },
+    "QMALL": {
+        "symbol": "QMALLUSDT",
+        "price": 0.014712,
+        "volume_24h": 292714.65,
+        "price_change_24h": 1.04,
+        "last_update": "2024-11-27T23:31:03.487615"
+    },
+    "PUMLX": {
+        "symbol": "PUMLXUSDT",
+        "price": 0.003849,
+        "volume_24h": 10233496.34,
+        "price_change_24h": -7.5600000000000005,
+        "last_update": "2024-11-27T23:31:03.487615"
+    },
+    "GCAKE": {
+        "symbol": "GCAKEUSDT",
+        "price": 7.41e-08,
+        "volume_24h": 306662357462.79,
+        "price_change_24h": 3.06,
+        "last_update": "2024-11-27T23:31:03.487615"
+    },
+    "APT": {
+        "symbol": "APTUSDT",
+        "price": 12.4093,
+        "volume_24h": 1340122.36,
+        "price_change_24h": 8.24,
+        "last_update": "2024-11-27T23:31:03.487615"
+    },
+    "MCRT": {
+        "symbol": "MCRTUSDT",
+        "price": 0.00102,
+        "volume_24h": 21963573.67,
+        "price_change_24h": 0.79,
+        "last_update": "2024-11-27T23:31:03.487615"
+    },
+    "MASK": {
+        "symbol": "MASKUSDT",
+        "price": 3.4858,
+        "volume_24h": 3581519.65,
+        "price_change_24h": 7.359999999999999,
+        "last_update": "2024-11-27T23:31:03.487615"
+    },
+    "ECOX": {
+        "symbol": "ECOXUSDT",
+        "price": 0.0726,
+        "volume_24h": 137872.02,
+        "price_change_24h": 2.98,
+        "last_update": "2024-11-27T23:31:03.487615"
+    },
+    "HFT": {
+        "symbol": "HFTUSDT",
+        "price": 0.2343,
+        "volume_24h": 9264647.23,
+        "price_change_24h": 12.16,
+        "last_update": "2024-11-27T23:31:03.487615"
+    },
+    "KCAL": {
+        "symbol": "KCALUSDT",
+        "price": 0.0471,
+        "volume_24h": 3247786.07,
+        "price_change_24h": 5.84,
+        "last_update": "2024-11-27T23:31:03.487615"
+    },
+    "PEOPLE": {
+        "symbol": "PEOPLEUSDT",
+        "price": 0.06128,
+        "volume_24h": 23350655.16,
+        "price_change_24h": 7.9399999999999995,
+        "last_update": "2024-11-27T23:31:03.487615"
+    },
+    "TWT": {
+        "symbol": "TWTUSDT",
+        "price": 1.1082,
+        "volume_24h": 1942353.88,
+        "price_change_24h": 8.200000000000001,
+        "last_update": "2024-11-27T23:31:03.487615"
+    },
+    "ORT": {
+        "symbol": "ORTUSDT",
+        "price": 0.00435,
+        "volume_24h": 59883723.85,
+        "price_change_24h": 5.33,
+        "last_update": "2024-11-27T23:31:03.487615"
+    },
+    "HOOK": {
+        "symbol": "HOOKUSDT",
+        "price": 0.538,
+        "volume_24h": 4388787.09,
+        "price_change_24h": 18.029999999999998,
+        "last_update": "2024-11-27T23:31:03.487615"
+    },
+    "PRIMAL": {
+        "symbol": "PRIMALUSDT",
+        "price": 8.08e-05,
+        "volume_24h": 1067723146.22,
+        "price_change_24h": -12.46,
+        "last_update": "2024-11-27T23:31:03.487615"
+    },
+    "OAS": {
+        "symbol": "OASUSDT",
+        "price": 0.047078,
+        "volume_24h": 4104342.6,
+        "price_change_24h": 1.5599999999999998,
+        "last_update": "2024-11-27T23:31:03.487615"
+    },
+    "MAGIC": {
+        "symbol": "MAGICUSDT",
+        "price": 0.5413,
+        "volume_24h": 3286988.64,
+        "price_change_24h": 12.09,
+        "last_update": "2024-11-27T23:31:03.487615"
+    },
+    "MEE": {
+        "symbol": "MEEUSDT",
+        "price": 0.009616,
+        "volume_24h": 13859693.19,
+        "price_change_24h": -0.7000000000000001,
+        "last_update": "2024-11-27T23:31:03.487615"
+    },
+    "TON": {
+        "symbol": "TONUSDT",
+        "price": 6.441,
+        "volume_24h": 8834349.38,
+        "price_change_24h": 9.969999999999999,
+        "last_update": "2024-11-27T23:31:03.487615"
+    },
+    "BONK": {
+        "symbol": "BONKUSDT",
+        "price": 4.36477e-05,
+        "volume_24h": 737278771612.6,
+        "price_change_24h": 6.52,
+        "last_update": "2024-11-27T23:31:03.487615"
+    },
+    "FLR": {
+        "symbol": "FLRUSDT",
+        "price": 0.02292,
+        "volume_24h": 91392661.29,
+        "price_change_24h": 4.75,
+        "last_update": "2024-11-27T23:31:03.487615"
+    },
+    "TIME": {
+        "symbol": "TIMEUSDT",
+        "price": 22.9436,
+        "volume_24h": 937.47,
+        "price_change_24h": 3.1,
+        "last_update": "2024-11-27T23:31:03.487615"
+    },
+    "3P": {
+        "symbol": "3PUSDT",
+        "price": 4.145e-09,
+        "volume_24h": 8740629713147.5,
+        "price_change_24h": 5.18,
+        "last_update": "2024-11-27T23:31:03.487615"
+    },
+    "RPL": {
+        "symbol": "RPLUSDT",
+        "price": 14.6584,
+        "volume_24h": 39545.02,
+        "price_change_24h": 13.71,
+        "last_update": "2024-11-27T23:31:03.487615"
+    },
+    "SSV": {
+        "symbol": "SSVUSDT",
+        "price": 26.95,
+        "volume_24h": 151271.59,
+        "price_change_24h": 9.46,
+        "last_update": "2024-11-27T23:31:03.487615"
+    },
+    "FXS": {
+        "symbol": "FXSUSDT",
+        "price": 3.2186,
+        "volume_24h": 260765.01,
+        "price_change_24h": 10.31,
+        "last_update": "2024-11-27T23:31:03.487615"
+    },
+    "CORE": {
+        "symbol": "COREUSDT",
+        "price": 1.0692,
+        "volume_24h": 2069381.38,
+        "price_change_24h": 4.99,
+        "last_update": "2024-11-27T23:31:03.487615"
+    },
+    "RDNT": {
+        "symbol": "RDNTUSDT",
+        "price": 0.0771,
+        "volume_24h": 12875744.89,
+        "price_change_24h": 15.25,
+        "last_update": "2024-11-27T23:31:03.487615"
+    },
+    "BLUR": {
+        "symbol": "BLURUSDT",
+        "price": 0.31856,
+        "volume_24h": 13659286.4,
+        "price_change_24h": 6.68,
+        "last_update": "2024-11-27T23:31:03.487615"
+    },
+    "LIS": {
+        "symbol": "LISUSDT",
+        "price": 0.000617,
+        "volume_24h": 73281127.8,
+        "price_change_24h": -1.59,
+        "last_update": "2024-11-27T23:31:03.487615"
+    },
+    "MDAO": {
+        "symbol": "MDAOUSDT",
+        "price": 0.05772,
+        "volume_24h": 1230094.68,
+        "price_change_24h": 1.0699999999999998,
+        "last_update": "2024-11-27T23:31:03.487615"
+    },
+    "ACS": {
+        "symbol": "ACSUSDT",
+        "price": 0.0018191,
+        "volume_24h": 86307372.09,
+        "price_change_24h": 2.55,
+        "last_update": "2024-11-27T23:31:03.487615"
+    },
+    "HVH": {
+        "symbol": "HVHUSDT",
+        "price": 0.00307,
+        "volume_24h": 36088870.02,
+        "price_change_24h": 0.0,
+        "last_update": "2024-11-27T23:31:03.487615"
+    },
+    "GNS": {
+        "symbol": "GNSUSDT",
+        "price": 2.5066,
+        "volume_24h": 6524.56,
+        "price_change_24h": 9.78,
+        "last_update": "2024-11-27T23:31:03.487615"
+    },
+    "DPX": {
+        "symbol": "DPXUSDT",
+        "price": 11.164,
+        "volume_24h": 4407.62,
+        "price_change_24h": 5.84,
+        "last_update": "2024-11-27T23:31:03.487615"
+    },
+    "PIP": {
+        "symbol": "PIPUSDT",
+        "price": 0.02542,
+        "volume_24h": 2470957.92,
+        "price_change_24h": -4.87,
+        "last_update": "2024-11-27T23:31:03.487615"
+    },
+    "PRIME": {
+        "symbol": "PRIMEUSDT",
+        "price": 11.495,
+        "volume_24h": 436689.74,
+        "price_change_24h": 16.689999999999998,
+        "last_update": "2024-11-27T23:31:03.487615"
+    },
+    "EVER": {
+        "symbol": "EVERUSDT",
+        "price": 0.01804,
+        "volume_24h": 3628051.87,
+        "price_change_24h": -2.64,
+        "last_update": "2024-11-27T23:31:03.487615"
+    },
+    "VRA": {
+        "symbol": "VRAUSDT",
+        "price": 0.005677,
+        "volume_24h": 383512086.89,
+        "price_change_24h": 7.66,
+        "last_update": "2024-11-27T23:31:03.487615"
+    },
+    "FB": {
+        "symbol": "FBUSDT",
+        "price": 0.586,
+        "volume_24h": 1213453.67,
+        "price_change_24h": -0.16999999999999998,
+        "last_update": "2024-11-27T23:31:03.487615"
+    },
+    "DZOO": {
+        "symbol": "DZOOUSDT",
+        "price": 0.004198,
+        "volume_24h": 147696.21,
+        "price_change_24h": 0.65,
+        "last_update": "2024-11-27T23:31:03.487615"
+    },
+    "ID": {
+        "symbol": "IDUSDT",
+        "price": 0.5483,
+        "volume_24h": 3053023.23,
+        "price_change_24h": 13.69,
+        "last_update": "2024-11-27T23:31:03.487615"
+    },
+    "ARB": {
+        "symbol": "ARBUSDT",
+        "price": 0.927,
+        "volume_24h": 32098622.7,
+        "price_change_24h": 10.620000000000001,
+        "last_update": "2024-11-27T23:31:03.487615"
+    },
+    "XCAD": {
+        "symbol": "XCADUSDT",
+        "price": 0.4113,
+        "volume_24h": 456788.85,
+        "price_change_24h": 2.06,
+        "last_update": "2024-11-27T23:31:03.487615"
+    },
+    "MBX": {
+        "symbol": "MBXUSDT",
+        "price": 0.4265,
+        "volume_24h": 87052.03,
+        "price_change_24h": 2.77,
+        "last_update": "2024-11-27T23:31:03.487615"
+    },
+    "AXL": {
+        "symbol": "AXLUSDT",
+        "price": 0.8778,
+        "volume_24h": 2949521.76,
+        "price_change_24h": 14.879999999999999,
+        "last_update": "2024-11-27T23:31:03.487615"
+    },
+    "CGPT": {
+        "symbol": "CGPTUSDT",
+        "price": 0.15678,
+        "volume_24h": 2521524.31,
+        "price_change_24h": 3.94,
+        "last_update": "2024-11-27T23:31:03.487615"
+    },
+    "AGI": {
+        "symbol": "AGIUSDT",
+        "price": 0.19925,
+        "volume_24h": 24088710.3,
+        "price_change_24h": 9.180000000000001,
+        "last_update": "2024-11-27T23:31:03.487615"
+    },
+    "SUI": {
+        "symbol": "SUIUSDT",
+        "price": 3.4572,
+        "volume_24h": 18063758.49,
+        "price_change_24h": 2.46,
+        "last_update": "2024-11-27T23:31:03.487615"
+    },
+    "MVL": {
+        "symbol": "MVLUSDT",
+        "price": 0.0056,
+        "volume_24h": 42097396.97,
+        "price_change_24h": 1.1199999999999999,
+        "last_update": "2024-11-27T23:31:03.487615"
+    },
+    "PEPE": {
+        "symbol": "PEPEUSDT",
+        "price": 1.9724e-05,
+        "volume_24h": 3499623004685.0,
+        "price_change_24h": 12.21,
+        "last_update": "2024-11-27T23:31:03.487615"
+    },
+    "LADYS": {
+        "symbol": "LADYSUSDT",
+        "price": 1.0469e-07,
+        "volume_24h": 7637150512876.8,
+        "price_change_24h": 13.139999999999999,
+        "last_update": "2024-11-27T23:31:03.487615"
+    },
+    "LMWR": {
+        "symbol": "LMWRUSDT",
+        "price": 0.18732,
+        "volume_24h": 1197212.06,
+        "price_change_24h": 3.8600000000000003,
+        "last_update": "2024-11-27T23:31:03.487615"
+    },
+    "BOB": {
+        "symbol": "BOBUSDT",
+        "price": 3.306e-05,
+        "volume_24h": 5633428176.1,
+        "price_change_24h": 9.0,
+        "last_update": "2024-11-27T23:31:03.487615"
+    },
+    "TOMI": {
+        "symbol": "TOMIUSDT",
+        "price": 0.00945,
+        "volume_24h": 314445650.4,
+        "price_change_24h": 6.9,
+        "last_update": "2024-11-27T23:31:03.487615"
+    },
+    "KARATE": {
+        "symbol": "KARATEUSDT",
+        "price": 0.00061,
+        "volume_24h": 52490549.66,
+        "price_change_24h": 7.22,
+        "last_update": "2024-11-27T23:31:03.487615"
+    },
+    "TURBOS": {
+        "symbol": "TURBOSUSDT",
+        "price": 0.0040118,
+        "volume_24h": 71156692.21,
+        "price_change_24h": 7.8,
+        "last_update": "2024-11-27T23:31:03.487615"
+    },
+    "FMB": {
+        "symbol": "FMBUSDT",
+        "price": 0.01231,
+        "volume_24h": 69940925.78,
+        "price_change_24h": -1.28,
+        "last_update": "2024-11-27T23:31:03.487615"
+    },
+    "TENET": {
+        "symbol": "TENETUSDT",
+        "price": 0.00411,
+        "volume_24h": 5898754.34,
+        "price_change_24h": 4.05,
+        "last_update": "2024-11-27T23:31:03.487615"
+    },
+    "VELO": {
+        "symbol": "VELOUSDT",
+        "price": 0.017702,
+        "volume_24h": 70600828.44,
+        "price_change_24h": -0.13999999999999999,
+        "last_update": "2024-11-27T23:31:03.487615"
+    },
+    "ELDA": {
+        "symbol": "ELDAUSDT",
+        "price": 0.003309,
+        "volume_24h": 4689771.37,
+        "price_change_24h": -2.07,
+        "last_update": "2024-11-27T23:31:03.487615"
+    },
+    "CANDY": {
+        "symbol": "CANDYUSDT",
+        "price": 0.0006176,
+        "volume_24h": 19490719.59,
+        "price_change_24h": 6.460000000000001,
+        "last_update": "2024-11-27T23:31:03.487615"
+    },
+    "VELA": {
+        "symbol": "VELAUSDT",
+        "price": 0.0284,
+        "volume_24h": 4499210.35,
+        "price_change_24h": 19.33,
+        "last_update": "2024-11-27T23:31:03.487615"
+    },
+    "PENDLE": {
+        "symbol": "PENDLEUSDT",
+        "price": 5.5125,
+        "volume_24h": 873616.88,
+        "price_change_24h": 15.010000000000002,
+        "last_update": "2024-11-27T23:31:03.487615"
+    },
+    "EGO": {
+        "symbol": "EGOUSDT",
+        "price": 0.02209,
+        "volume_24h": 7181867.66,
+        "price_change_24h": -0.22999999999999998,
+        "last_update": "2024-11-27T23:31:03.487615"
+    },
+    "NYM": {
+        "symbol": "NYMUSDT",
+        "price": 0.1013,
+        "volume_24h": 725727.14,
+        "price_change_24h": 1.6,
+        "last_update": "2024-11-27T23:31:03.487615"
+    },
+    "MNT": {
+        "symbol": "MNTUSDT",
+        "price": 0.8648,
+        "volume_24h": 155011430.48,
+        "price_change_24h": 9.51,
+        "last_update": "2024-11-27T23:31:03.487615"
+    },
+    "GSWIFT": {
+        "symbol": "GSWIFTUSDT",
+        "price": 0.06117,
+        "volume_24h": 1659968.38,
+        "price_change_24h": 3.64,
+        "last_update": "2024-11-27T23:31:03.487615"
+    },
+    "SALD": {
+        "symbol": "SALDUSDT",
+        "price": 0.00075,
+        "volume_24h": 110302844.72,
+        "price_change_24h": -5.06,
+        "last_update": "2024-11-27T23:31:03.487615"
+    },
+    "ARKM": {
+        "symbol": "ARKMUSDT",
+        "price": 2.1748,
+        "volume_24h": 3162301.63,
+        "price_change_24h": 11.450000000000001,
+        "last_update": "2024-11-27T23:31:03.487615"
+    },
+    "NEON": {
+        "symbol": "NEONUSDT",
+        "price": 0.37497,
+        "volume_24h": 1486461.03,
+        "price_change_24h": 1.63,
+        "last_update": "2024-11-27T23:31:03.487615"
+    },
+    "WLD": {
+        "symbol": "WLDUSDT",
+        "price": 2.4587,
+        "volume_24h": 5667044.88,
+        "price_change_24h": 8.48,
+        "last_update": "2024-11-27T23:31:03.487615"
+    },
+    "PLANET": {
+        "symbol": "PLANETUSDT",
+        "price": 3.19e-06,
+        "volume_24h": 13525568005.78,
+        "price_change_24h": 11.15,
+        "last_update": "2024-11-27T23:31:03.487615"
+    },
+    "DSRUN": {
+        "symbol": "DSRUNUSDT",
+        "price": 0.01546,
+        "volume_24h": 243253.61,
+        "price_change_24h": 4.53,
+        "last_update": "2024-11-27T23:31:03.487615"
+    },
+    "SPARTA": {
+        "symbol": "SPARTAUSDT",
+        "price": 0.0669,
+        "volume_24h": 149030.98,
+        "price_change_24h": -4.02,
+        "last_update": "2024-11-27T23:31:03.487615"
+    },
+    "TAVA": {
+        "symbol": "TAVAUSDT",
+        "price": 0.02719,
+        "volume_24h": 1586744.68,
+        "price_change_24h": 6.419999999999999,
+        "last_update": "2024-11-27T23:31:03.487615"
+    },
+    "SEILOR": {
+        "symbol": "SEILORUSDT",
+        "price": 0.022554,
+        "volume_24h": 4489192.82,
+        "price_change_24h": -3.1399999999999997,
+        "last_update": "2024-11-27T23:31:03.487615"
+    },
+    "SEI": {
+        "symbol": "SEIUSDT",
+        "price": 0.6781,
+        "volume_24h": 75855904.83,
+        "price_change_24h": 1.59,
+        "last_update": "2024-11-27T23:31:03.487615"
+    },
+    "CYBER": {
+        "symbol": "CYBERUSDT",
+        "price": 4.3475,
+        "volume_24h": 290985.02,
+        "price_change_24h": 13.059999999999999,
+        "last_update": "2024-11-27T23:31:03.487615"
+    },
+    "ORDI": {
+        "symbol": "ORDIUSDT",
+        "price": 39.52,
+        "volume_24h": 217461.24,
+        "price_change_24h": 8.21,
+        "last_update": "2024-11-27T23:31:03.487615"
+    },
+    "KAVA": {
+        "symbol": "KAVAUSDT",
+        "price": 0.5522,
+        "volume_24h": 1517280.24,
+        "price_change_24h": 11.379999999999999,
+        "last_update": "2024-11-27T23:31:03.487615"
+    },
+    "SAIL": {
+        "symbol": "SAILUSDT",
+        "price": 0.0037006,
+        "volume_24h": 3756621.9,
+        "price_change_24h": 1.66,
+        "last_update": "2024-11-27T23:31:03.487615"
+    },
+    "PYUSD": {
+        "symbol": "PYUSDUSDT",
+        "price": 0.998,
+        "volume_24h": 126486.28,
+        "price_change_24h": -0.06,
+        "last_update": "2024-11-27T23:31:03.487615"
+    },
+    "VEXT": {
+        "symbol": "VEXTUSDT",
+        "price": 0.004858,
+        "volume_24h": 2620436.62,
+        "price_change_24h": -0.44999999999999996,
+        "last_update": "2024-11-27T23:31:03.487615"
+    },
+    "CTT": {
+        "symbol": "CTTUSDT",
+        "price": 0.000501,
+        "volume_24h": 632679931.15,
+        "price_change_24h": -7.5600000000000005,
+        "last_update": "2024-11-27T23:31:03.487615"
+    },
+    "NEXT": {
+        "symbol": "NEXTUSDT",
+        "price": 0.11018,
+        "volume_24h": 2103591.69,
+        "price_change_24h": 8.7,
+        "last_update": "2024-11-27T23:31:03.487615"
+    },
+    "KAS": {
+        "symbol": "KASUSDT",
+        "price": 0.15132,
+        "volume_24h": 49936848.93,
+        "price_change_24h": 4.65,
+        "last_update": "2024-11-27T23:31:03.487615"
+    },
+    "NESS": {
+        "symbol": "NESSUSDT",
+        "price": 0.03945,
+        "volume_24h": 6022240.53,
+        "price_change_24h": -0.05,
+        "last_update": "2024-11-27T23:31:03.487615"
+    },
+    "CAT": {
+        "symbol": "CATUSDT",
+        "price": 0.000485,
+        "volume_24h": 105600676.15,
+        "price_change_24h": 0.62,
+        "last_update": "2024-11-27T23:31:03.487615"
+    },
+    "FET": {
+        "symbol": "FETUSDT",
+        "price": 1.492,
+        "volume_24h": 10598364.27,
+        "price_change_24h": 12.379999999999999,
+        "last_update": "2024-11-27T23:31:03.487615"
+    },
+    "LEVER": {
+        "symbol": "LEVERUSDT",
+        "price": 0.00233,
+        "volume_24h": 211683813.92,
+        "price_change_24h": 11.86,
+        "last_update": "2024-11-27T23:31:03.487615"
+    },
+    "ZTX": {
+        "symbol": "ZTXUSDT",
+        "price": 0.00586,
+        "volume_24h": 40368319.03,
+        "price_change_24h": 1.03,
+        "last_update": "2024-11-27T23:31:03.487615"
+    },
+    "JEFF": {
+        "symbol": "JEFFUSDT",
+        "price": 0.01169,
+        "volume_24h": 3551851.31,
+        "price_change_24h": 2.36,
+        "last_update": "2024-11-27T23:31:03.487615"
+    },
+    "PPT": {
+        "symbol": "PPTUSDT",
+        "price": 0.0581,
+        "volume_24h": 2053943.15,
+        "price_change_24h": 1.04,
+        "last_update": "2024-11-27T23:31:03.487615"
+    },
+    "TUSD": {
+        "symbol": "TUSDUSDT",
+        "price": 1.0025,
+        "volume_24h": 48431.77,
+        "price_change_24h": 0.11,
+        "last_update": "2024-11-27T23:31:03.487615"
+    },
+    "BEAM": {
+        "symbol": "BEAMUSDT",
+        "price": 0.023663,
+        "volume_24h": 168216599.9,
+        "price_change_24h": 11.28,
+        "last_update": "2024-11-27T23:31:03.487615"
+    },
+    "POL": {
+        "symbol": "POLUSDT",
+        "price": 0.5652,
+        "volume_24h": 29813361.07,
+        "price_change_24h": 9.53,
+        "last_update": "2024-11-27T23:31:03.487615"
+    },
+    "TIA": {
+        "symbol": "TIAUSDT",
+        "price": 8.1358,
+        "volume_24h": 6292051.7,
+        "price_change_24h": 2.06,
+        "last_update": "2024-11-27T23:31:03.487615"
+    },
+    "TOKEN": {
+        "symbol": "TOKENUSDT",
+        "price": 0.0587,
+        "volume_24h": 32383331.6,
+        "price_change_24h": 12.04,
+        "last_update": "2024-11-27T23:31:03.487615"
+    },
+    "MEME": {
+        "symbol": "MEMEUSDT",
+        "price": 0.014183,
+        "volume_24h": 377167624.12,
+        "price_change_24h": 9.370000000000001,
+        "last_update": "2024-11-27T23:31:03.487615"
+    },
+    "SHRAP": {
+        "symbol": "SHRAPUSDT",
+        "price": 0.03832,
+        "volume_24h": 71382855.35,
+        "price_change_24h": 2.19,
+        "last_update": "2024-11-27T23:31:03.487615"
+    },
+    "RPK": {
+        "symbol": "RPKUSDT",
+        "price": 0.00512,
+        "volume_24h": 11586461.79,
+        "price_change_24h": 0.0,
+        "last_update": "2024-11-27T23:31:03.487615"
+    },
+    "FLIP": {
+        "symbol": "FLIPUSDT",
+        "price": 1.3381,
+        "volume_24h": 242554.01,
+        "price_change_24h": 1.41,
+        "last_update": "2024-11-27T23:31:03.487615"
+    },
+    "CRDS": {
+        "symbol": "CRDSUSDT",
+        "price": 0.00064,
+        "volume_24h": 31234669.63,
+        "price_change_24h": -13.51,
+        "last_update": "2024-11-27T23:31:03.487615"
+    },
+    "VRTX": {
+        "symbol": "VRTXUSDT",
+        "price": 0.0765,
+        "volume_24h": 1007507.18,
+        "price_change_24h": 2.0,
+        "last_update": "2024-11-27T23:31:03.487615"
+    },
+    "ROOT": {
+        "symbol": "ROOTUSDT",
+        "price": 0.03548,
+        "volume_24h": 8921108.52,
+        "price_change_24h": 7.1,
+        "last_update": "2024-11-27T23:31:03.487615"
+    },
+    "PYTH": {
+        "symbol": "PYTHUSDT",
+        "price": 0.45046,
+        "volume_24h": 29060074.33,
+        "price_change_24h": 8.93,
+        "last_update": "2024-11-27T23:31:03.487615"
+    },
+    "MLK": {
+        "symbol": "MLKUSDT",
+        "price": 0.2992,
+        "volume_24h": 72774.02,
+        "price_change_24h": 6.4799999999999995,
+        "last_update": "2024-11-27T23:31:03.487615"
+    },
+    "KUB": {
+        "symbol": "KUBUSDT",
+        "price": 2.3543,
+        "volume_24h": 6425.7,
+        "price_change_24h": -2.93,
+        "last_update": "2024-11-27T23:31:03.487615"
+    },
+    "5IRE": {
+        "symbol": "5IREUSDT",
+        "price": 0.00736,
+        "volume_24h": 11113181.14,
+        "price_change_24h": 6.140000000000001,
+        "last_update": "2024-11-27T23:31:03.487615"
+    },
+    "KCS": {
+        "symbol": "KCSUSDT",
+        "price": 11.5964,
+        "volume_24h": 2436.69,
+        "price_change_24h": 3.8899999999999997,
+        "last_update": "2024-11-27T23:31:03.487615"
+    },
+    "VANRY": {
+        "symbol": "VANRYUSDT",
+        "price": 0.1392,
+        "volume_24h": 14317689.9,
+        "price_change_24h": 4.46,
+        "last_update": "2024-11-27T23:31:03.487615"
+    },
+    "INSP": {
+        "symbol": "INSPUSDT",
+        "price": 0.0411,
+        "volume_24h": 7710998.19,
+        "price_change_24h": 7.37,
+        "last_update": "2024-11-27T23:31:03.487615"
+    },
+    "JTO": {
+        "symbol": "JTOUSDT",
+        "price": 3.61289,
+        "volume_24h": 1946910.83,
+        "price_change_24h": 5.96,
+        "last_update": "2024-11-27T23:31:03.487615"
+    },
+    "METH": {
+        "symbol": "METHUSDT",
+        "price": 3740.14,
+        "volume_24h": 130.65737,
+        "price_change_24h": 8.94,
+        "last_update": "2024-11-27T23:31:03.487615"
+    },
+    "CBK": {
+        "symbol": "CBKUSDT",
+        "price": 0.8554,
+        "volume_24h": 116832.79,
+        "price_change_24h": 6.74,
+        "last_update": "2024-11-27T23:31:03.487615"
+    },
+    "ZIG": {
+        "symbol": "ZIGUSDT",
+        "price": 0.14485,
+        "volume_24h": 10512620.94,
+        "price_change_24h": 4.34,
+        "last_update": "2024-11-27T23:31:03.487615"
+    },
+    "VPR": {
+        "symbol": "VPRUSDT",
+        "price": 0.002481,
+        "volume_24h": 14690002.19,
+        "price_change_24h": 0.77,
+        "last_update": "2024-11-27T23:31:03.487615"
+    },
+    "TRC": {
+        "symbol": "TRCUSDT",
+        "price": 0.01248,
+        "volume_24h": 882193.23,
+        "price_change_24h": -0.32,
+        "last_update": "2024-11-27T23:31:03.487615"
+    },
+    "FMC": {
+        "symbol": "FMCUSDT",
+        "price": 0.0002858,
+        "volume_24h": 316290980.78,
+        "price_change_24h": 8.219999999999999,
+        "last_update": "2024-11-27T23:31:03.487615"
+    },
+    "MYRIA": {
+        "symbol": "MYRIAUSDT",
+        "price": 0.002715,
+        "volume_24h": 163194097.03,
+        "price_change_24h": 10.86,
+        "last_update": "2024-11-27T23:31:03.487615"
+    },
+    "AKI": {
+        "symbol": "AKIUSDT",
+        "price": 0.00271,
+        "volume_24h": 8168642.5,
+        "price_change_24h": 6.2700000000000005,
+        "last_update": "2024-11-27T23:31:03.487615"
+    },
+    "MBOX": {
+        "symbol": "MBOXUSDT",
+        "price": 0.2483,
+        "volume_24h": 1494705.89,
+        "price_change_24h": 15.97,
+        "last_update": "2024-11-27T23:31:03.487615"
+    },
+    "IRL": {
+        "symbol": "IRLUSDT",
+        "price": 0.01785,
+        "volume_24h": 514235.82,
+        "price_change_24h": -5.609999999999999,
+        "last_update": "2024-11-27T23:31:03.487615"
+    },
+    "ARTY": {
+        "symbol": "ARTYUSDT",
+        "price": 0.4957,
+        "volume_24h": 624406.08,
+        "price_change_24h": 5.83,
+        "last_update": "2024-11-27T23:31:03.487615"
+    },
+    "GRAPE": {
+        "symbol": "GRAPEUSDT",
+        "price": 0.000952,
+        "volume_24h": 84855529.82,
+        "price_change_24h": -5.38,
+        "last_update": "2024-11-27T23:31:03.487615"
+    },
+    "COQ": {
+        "symbol": "COQUSDT",
+        "price": 2.509e-06,
+        "volume_24h": 1154650921827.0,
+        "price_change_24h": 5.6899999999999995,
+        "last_update": "2024-11-27T23:31:03.487615"
+    },
+    "AIOZ": {
+        "symbol": "AIOZUSDT",
+        "price": 0.7848,
+        "volume_24h": 1383557.34,
+        "price_change_24h": 4.17,
+        "last_update": "2024-11-27T23:31:03.487615"
+    },
+    "GG": {
+        "symbol": "GGUSDT",
+        "price": 0.03184,
+        "volume_24h": 547578.7,
+        "price_change_24h": 6.45,
+        "last_update": "2024-11-27T23:31:03.487615"
+    },
+    "VIC": {
+        "symbol": "VICUSDT",
+        "price": 0.4576,
+        "volume_24h": 94540.7,
+        "price_change_24h": 6.59,
+        "last_update": "2024-11-27T23:31:03.487615"
+    },
+    "COM": {
+        "symbol": "COMUSDT",
+        "price": 0.1542,
+        "volume_24h": 287263.34,
+        "price_change_24h": 6.569999999999999,
+        "last_update": "2024-11-27T23:31:03.487615"
+    },
+    "RATS": {
+        "symbol": "RATSUSDT",
+        "price": 9.77e-05,
+        "volume_24h": 13106382783.89,
+        "price_change_24h": 6.43,
+        "last_update": "2024-11-27T23:31:03.487615"
+    },
+    "SATS": {
+        "symbol": "SATSUSDT",
+        "price": 2.495e-07,
+        "volume_24h": 3569175683457.8,
+        "price_change_24h": 6.9,
+        "last_update": "2024-11-27T23:31:03.487615"
+    },
+    "ZKF": {
+        "symbol": "ZKFUSDT",
+        "price": 0.000609,
+        "volume_24h": 52693088.88,
+        "price_change_24h": 0.16,
+        "last_update": "2024-11-27T23:31:03.487615"
+    },
+    "PORT3": {
+        "symbol": "PORT3USDT",
+        "price": 0.03671,
+        "volume_24h": 2572023.7,
+        "price_change_24h": 11.82,
+        "last_update": "2024-11-27T23:31:03.487615"
+    },
+    "XAI": {
+        "symbol": "XAIUSDT",
+        "price": 0.33539,
+        "volume_24h": 15258733.17,
+        "price_change_24h": 19.68,
+        "last_update": "2024-11-27T23:31:03.487615"
+    },
+    "ONDO": {
+        "symbol": "ONDOUSDT",
+        "price": 1.06185,
+        "volume_24h": 30711187.75,
+        "price_change_24h": 8.85,
+        "last_update": "2024-11-27T23:31:03.487615"
+    },
+    "FAR": {
+        "symbol": "FARUSDT",
+        "price": 0.01102,
+        "volume_24h": 72765804.33,
+        "price_change_24h": 8.25,
+        "last_update": "2024-11-27T23:31:03.487615"
+    },
+    "SQR": {
+        "symbol": "SQRUSDT",
+        "price": 0.04588,
+        "volume_24h": 1148295.48,
+        "price_change_24h": 4.61,
+        "last_update": "2024-11-27T23:31:03.487615"
+    },
+    "DUEL": {
+        "symbol": "DUELUSDT",
+        "price": 0.003425,
+        "volume_24h": 68913920.05,
+        "price_change_24h": 19.96,
+        "last_update": "2024-11-27T23:31:03.487615"
+    },
+    "APP": {
+        "symbol": "APPUSDT",
+        "price": 0.003302,
+        "volume_24h": 4176708.45,
+        "price_change_24h": 9.27,
+        "last_update": "2024-11-27T23:31:03.487615"
+    },
+    "SAROS": {
+        "symbol": "SAROSUSDT",
+        "price": 0.003264,
+        "volume_24h": 69056161.28,
+        "price_change_24h": 31.56,
+        "last_update": "2024-11-27T23:31:03.487615"
+    },
+    "USDY": {
+        "symbol": "USDYUSDT",
+        "price": 1.0658,
+        "volume_24h": 304554.89,
+        "price_change_24h": -0.02,
+        "last_update": "2024-11-27T23:31:03.487615"
+    },
+    "MANTA": {
+        "symbol": "MANTAUSDT",
+        "price": 1.0781,
+        "volume_24h": 3399437.26,
+        "price_change_24h": 11.81,
+        "last_update": "2024-11-27T23:31:03.487615"
+    },
+    "MYRO": {
+        "symbol": "MYROUSDT",
+        "price": 0.11,
+        "volume_24h": 50263028.3,
+        "price_change_24h": 7.630000000000001,
+        "last_update": "2024-11-27T23:31:03.487615"
+    },
+    "GTAI": {
+        "symbol": "GTAIUSDT",
+        "price": 0.7919,
+        "volume_24h": 632417.75,
+        "price_change_24h": -4.109999999999999,
+        "last_update": "2024-11-27T23:31:03.487615"
+    },
+    "DMAIL": {
+        "symbol": "DMAILUSDT",
+        "price": 0.2991,
+        "volume_24h": 3298775.97,
+        "price_change_24h": 15.75,
+        "last_update": "2024-11-27T23:31:03.487615"
+    },
+    "AFG": {
+        "symbol": "AFGUSDT",
+        "price": 0.00593,
+        "volume_24h": 745667.82,
+        "price_change_24h": 0.8500000000000001,
+        "last_update": "2024-11-27T23:31:03.487615"
+    },
+    "DYM": {
+        "symbol": "DYMUSDT",
+        "price": 2.2415,
+        "volume_24h": 677554.47,
+        "price_change_24h": 1.37,
+        "last_update": "2024-11-27T23:31:03.487615"
+    },
+    "ZETA": {
+        "symbol": "ZETAUSDT",
+        "price": 0.7919,
+        "volume_24h": 9797520.84,
+        "price_change_24h": 13.52,
+        "last_update": "2024-11-27T23:31:03.487615"
+    },
+    "JUP": {
+        "symbol": "JUPUSDT",
+        "price": 1.0698,
+        "volume_24h": 6297904.94,
+        "price_change_24h": 7.670000000000001,
+        "last_update": "2024-11-27T23:31:03.487615"
+    },
+    "MXM": {
+        "symbol": "MXMUSDT",
+        "price": 0.00839,
+        "volume_24h": 541411.3,
+        "price_change_24h": 0.96,
+        "last_update": "2024-11-27T23:31:03.487615"
+    },
+    "DEFI": {
+        "symbol": "DEFIUSDT",
+        "price": 0.01773,
+        "volume_24h": 3723951.32,
+        "price_change_24h": -3.11,
+        "last_update": "2024-11-27T23:31:03.487615"
+    },
+    "FIRE": {
+        "symbol": "FIREUSDT",
+        "price": 0.8922,
+        "volume_24h": 4757880.04,
+        "price_change_24h": 5.16,
+        "last_update": "2024-11-27T23:31:03.487615"
+    },
+    "MAVIA": {
+        "symbol": "MAVIAUSDT",
+        "price": 2.0957,
+        "volume_24h": 2768476.61,
+        "price_change_24h": 6.419999999999999,
+        "last_update": "2024-11-27T23:31:03.487615"
+    },
+    "PURSE": {
+        "symbol": "PURSEUSDT",
+        "price": 0.0001563,
+        "volume_24h": 24553154.51,
+        "price_change_24h": 1.82,
+        "last_update": "2024-11-27T23:31:03.487615"
+    },
+    "LENDS": {
+        "symbol": "LENDSUSDT",
+        "price": 0.0038,
+        "volume_24h": 6445334.59,
+        "price_change_24h": 7.04,
+        "last_update": "2024-11-27T23:31:03.487615"
+    },
+    "BCUT": {
+        "symbol": "BCUTUSDT",
+        "price": 0.04115,
+        "volume_24h": 6731383.78,
+        "price_change_24h": 12.370000000000001,
+        "last_update": "2024-11-27T23:31:03.487615"
+    },
+    "ALT": {
+        "symbol": "ALTUSDT",
+        "price": 0.13831,
+        "volume_24h": 18391845.72,
+        "price_change_24h": 13.900000000000002,
+        "last_update": "2024-11-27T23:31:03.487615"
+    },
+    "HTX": {
+        "symbol": "HTXUSDT",
+        "price": 1.872e-06,
+        "volume_24h": 4388722800.16,
+        "price_change_24h": 4.64,
+        "last_update": "2024-11-27T23:31:03.487615"
+    },
+    "CSPR": {
+        "symbol": "CSPRUSDT",
+        "price": 0.01625,
+        "volume_24h": 29579724.28,
+        "price_change_24h": 5.66,
+        "last_update": "2024-11-27T23:31:03.488619"
+    },
+    "STRK": {
+        "symbol": "STRKUSDT",
+        "price": 0.6224,
+        "volume_24h": 31994806.77,
+        "price_change_24h": 12.389999999999999,
+        "last_update": "2024-11-27T23:31:03.488619"
+    },
+    "CPOOL": {
+        "symbol": "CPOOLUSDT",
+        "price": 0.25178,
+        "volume_24h": 3938741.56,
+        "price_change_24h": 12.1,
+        "last_update": "2024-11-27T23:31:03.488619"
+    },
+    "QORPO": {
+        "symbol": "QORPOUSDT",
+        "price": 0.08687,
+        "volume_24h": 828471.78,
+        "price_change_24h": 1.0699999999999998,
+        "last_update": "2024-11-27T23:31:03.488619"
+    },
+    "BBL": {
+        "symbol": "BBLUSDT",
+        "price": 0.00462,
+        "volume_24h": 22914017.06,
+        "price_change_24h": 9.48,
+        "last_update": "2024-11-27T23:31:03.488619"
+    },
+    "DECHAT": {
+        "symbol": "DECHATUSDT",
+        "price": 0.1665,
+        "volume_24h": 467795.98,
+        "price_change_24h": -1.48,
+        "last_update": "2024-11-27T23:31:03.488619"
+    },
+    "SQT": {
+        "symbol": "SQTUSDT",
+        "price": 0.00751,
+        "volume_24h": 66470270.99,
+        "price_change_24h": 6.83,
+        "last_update": "2024-11-27T23:31:03.488619"
+    },
+    "PORTAL": {
+        "symbol": "PORTALUSDT",
+        "price": 0.3914,
+        "volume_24h": 11684105.62,
+        "price_change_24h": 12.370000000000001,
+        "last_update": "2024-11-27T23:31:03.488619"
+    },
+    "AEG": {
+        "symbol": "AEGUSDT",
+        "price": 0.00698,
+        "volume_24h": 4819010.52,
+        "price_change_24h": 2.0500000000000003,
+        "last_update": "2024-11-27T23:31:03.488619"
+    },
+    "SCA": {
+        "symbol": "SCAUSDT",
+        "price": 0.412,
+        "volume_24h": 1017151.39,
+        "price_change_24h": 7.01,
+        "last_update": "2024-11-27T23:31:03.488619"
+    },
+    "AEVO": {
+        "symbol": "AEVOUSDT",
+        "price": 0.4828,
+        "volume_24h": 16873113.17,
+        "price_change_24h": 18.13,
+        "last_update": "2024-11-27T23:31:03.488619"
+    },
+    "NIBI": {
+        "symbol": "NIBIUSDT",
+        "price": 0.04019,
+        "volume_24h": 3381525.83,
+        "price_change_24h": 5.29,
+        "last_update": "2024-11-27T23:31:03.488619"
+    },
+    "STAR": {
+        "symbol": "STARUSDT",
+        "price": 0.04297,
+        "volume_24h": 484042.82,
+        "price_change_24h": 3.62,
+        "last_update": "2024-11-27T23:31:03.488619"
+    },
+    "NGL": {
+        "symbol": "NGLUSDT",
+        "price": 0.13971,
+        "volume_24h": 3154905.86,
+        "price_change_24h": 14.52,
+        "last_update": "2024-11-27T23:31:03.488619"
+    },
+    "ZEND": {
+        "symbol": "ZENDUSDT",
+        "price": 0.1755,
+        "volume_24h": 1168594.27,
+        "price_change_24h": 17.0,
+        "last_update": "2024-11-27T23:31:03.488619"
+    },
+    "BOME": {
+        "symbol": "BOMEUSDT",
+        "price": 0.008912,
+        "volume_24h": 422389703.17,
+        "price_change_24h": 7.000000000000001,
+        "last_update": "2024-11-27T23:31:03.488619"
+    },
+    "VENOM": {
+        "symbol": "VENOMUSDT",
+        "price": 0.0678,
+        "volume_24h": 2165223.61,
+        "price_change_24h": 2.26,
+        "last_update": "2024-11-27T23:31:03.488619"
+    },
+    "ZKJ": {
+        "symbol": "ZKJUSDT",
+        "price": 1.3898,
+        "volume_24h": 2743636.08,
+        "price_change_24h": 2.4,
+        "last_update": "2024-11-27T23:31:03.488619"
+    },
+    "ETHFI": {
+        "symbol": "ETHFIUSDT",
+        "price": 2.321,
+        "volume_24h": 5858612.83,
+        "price_change_24h": 13.389999999999999,
+        "last_update": "2024-11-27T23:31:03.488619"
+    },
+    "AURY": {
+        "symbol": "AURYUSDT",
+        "price": 0.1977,
+        "volume_24h": 203647.95,
+        "price_change_24h": -3.04,
+        "last_update": "2024-11-27T23:31:03.488619"
+    },
+    "FLT": {
+        "symbol": "FLTUSDT",
+        "price": 0.326,
+        "volume_24h": 658505.22,
+        "price_change_24h": 16.72,
+        "last_update": "2024-11-27T23:31:03.488619"
+    },
+    "NAKA": {
+        "symbol": "NAKAUSDT",
+        "price": 1.1965,
+        "volume_24h": 736184.95,
+        "price_change_24h": 6.41,
+        "last_update": "2024-11-27T23:31:03.488619"
+    },
+    "GMRX": {
+        "symbol": "GMRXUSDT",
+        "price": 0.000805,
+        "volume_24h": 42849413.0,
+        "price_change_24h": 0.25,
+        "last_update": "2024-11-27T23:31:03.488619"
+    },
+    "APRS": {
+        "symbol": "APRSUSDT",
+        "price": 0.109,
+        "volume_24h": 399742.22,
+        "price_change_24h": 7.39,
+        "last_update": "2024-11-27T23:31:03.488619"
+    },
+    "WEN": {
+        "symbol": "WENUSDT",
+        "price": 0.0001352,
+        "volume_24h": 26539645492.96,
+        "price_change_24h": 0.37,
+        "last_update": "2024-11-27T23:31:03.488619"
+    },
+    "BRAWL": {
+        "symbol": "BRAWLUSDT",
+        "price": 0.0003535,
+        "volume_24h": 45590290.23,
+        "price_change_24h": 1.58,
+        "last_update": "2024-11-27T23:31:03.488619"
+    },
+    "DEGEN": {
+        "symbol": "DEGENUSDT",
+        "price": 0.02011,
+        "volume_24h": 863094136.29,
+        "price_change_24h": 19.7,
+        "last_update": "2024-11-27T23:31:03.488619"
+    },
+    "MFER": {
+        "symbol": "MFERUSDT",
+        "price": 0.02961,
+        "volume_24h": 1922793.64,
+        "price_change_24h": 5.67,
+        "last_update": "2024-11-27T23:31:03.488619"
+    },
+    "BONUS": {
+        "symbol": "BONUSUSDT",
+        "price": 0.0315,
+        "volume_24h": 253283.64,
+        "price_change_24h": -0.32,
+        "last_update": "2024-11-27T23:31:03.488619"
+    },
+    "ENA": {
+        "symbol": "ENAUSDT",
+        "price": 0.6785,
+        "volume_24h": 48365832.78,
+        "price_change_24h": 13.100000000000001,
+        "last_update": "2024-11-27T23:31:03.488619"
+    },
+    "USDE": {
+        "symbol": "USDEUSDT",
+        "price": 1.0004,
+        "volume_24h": 13437198.4,
+        "price_change_24h": -0.04,
+        "last_update": "2024-11-27T23:31:03.488619"
+    },
+    "VELAR": {
+        "symbol": "VELARUSDT",
+        "price": 0.07363,
+        "volume_24h": 1295984.39,
+        "price_change_24h": -3.25,
+        "last_update": "2024-11-27T23:31:03.488619"
+    },
+    "XAR": {
+        "symbol": "XARUSDT",
+        "price": 0.01859,
+        "volume_24h": 4864976.18,
+        "price_change_24h": -10.41,
+        "last_update": "2024-11-27T23:31:03.488619"
+    },
+    "W": {
+        "symbol": "WUSDT",
+        "price": 0.3011,
+        "volume_24h": 34182222.29,
+        "price_change_24h": 16.98,
+        "last_update": "2024-11-27T23:31:03.488619"
+    },
+    "EVERY": {
+        "symbol": "EVERYUSDT",
+        "price": 0.002499,
+        "volume_24h": 2701322.11,
+        "price_change_24h": 2.0,
+        "last_update": "2024-11-27T23:31:03.488619"
+    },
+    "MOJO": {
+        "symbol": "MOJOUSDT",
+        "price": 0.01888,
+        "volume_24h": 3327295.43,
+        "price_change_24h": 0.27,
+        "last_update": "2024-11-27T23:31:03.488619"
+    },
+    "G3": {
+        "symbol": "G3USDT",
+        "price": 0.04845,
+        "volume_24h": 390697.57,
+        "price_change_24h": 2.0,
+        "last_update": "2024-11-27T23:31:03.488619"
+    },
+    "ESE": {
+        "symbol": "ESEUSDT",
+        "price": 0.02265,
+        "volume_24h": 24915114.71,
+        "price_change_24h": 7.35,
+        "last_update": "2024-11-27T23:31:03.488619"
+    },
+    "TNSR": {
+        "symbol": "TNSRUSDT",
+        "price": 0.5922,
+        "volume_24h": 2189001.37,
+        "price_change_24h": 12.46,
+        "last_update": "2024-11-27T23:31:03.488619"
+    },
+    "BLOCK": {
+        "symbol": "BLOCKUSDT",
+        "price": 0.0246,
+        "volume_24h": 1265827.67,
+        "price_change_24h": 0.08,
+        "last_update": "2024-11-27T23:31:03.488619"
+    },
+    "MASA": {
+        "symbol": "MASAUSDT",
+        "price": 0.09974,
+        "volume_24h": 4878888.39,
+        "price_change_24h": 5.08,
+        "last_update": "2024-11-27T23:31:03.488619"
+    },
+    "FOXY": {
+        "symbol": "FOXYUSDT",
+        "price": 0.014221,
+        "volume_24h": 76083224.2,
+        "price_change_24h": 13.58,
+        "last_update": "2024-11-27T23:31:03.488619"
+    },
+    "SHARK": {
+        "symbol": "SHARKUSDT",
+        "price": 0.036374,
+        "volume_24h": 43105954.2,
+        "price_change_24h": 61.739999999999995,
+        "last_update": "2024-11-27T23:31:03.488619"
+    },
+    "PRCL": {
+        "symbol": "PRCLUSDT",
+        "price": 0.3931,
+        "volume_24h": 5063676.82,
+        "price_change_24h": 6.76,
+        "last_update": "2024-11-27T23:31:03.488619"
+    },
+    "MSTAR": {
+        "symbol": "MSTARUSDT",
+        "price": 0.01507,
+        "volume_24h": 14880180.36,
+        "price_change_24h": 3.65,
+        "last_update": "2024-11-27T23:31:03.488619"
+    },
+    "OMNI": {
+        "symbol": "OMNIUSDT",
+        "price": 11.115,
+        "volume_24h": 187767.63,
+        "price_change_24h": 21.0,
+        "last_update": "2024-11-27T23:31:03.488619"
+    },
+    "BRETT": {
+        "symbol": "BRETTUSDT",
+        "price": 0.17016,
+        "volume_24h": 142671591.71,
+        "price_change_24h": 9.01,
+        "last_update": "2024-11-27T23:31:03.488619"
+    },
+    "MEW": {
+        "symbol": "MEWUSDT",
+        "price": 0.009624,
+        "volume_24h": 689791202.57,
+        "price_change_24h": 7.8,
+        "last_update": "2024-11-27T23:31:03.488619"
+    },
+    "MERL": {
+        "symbol": "MERLUSDT",
+        "price": 0.3766,
+        "volume_24h": 35651172.2,
+        "price_change_24h": 9.86,
+        "last_update": "2024-11-27T23:31:03.488619"
+    },
+    "PBUX": {
+        "symbol": "PBUXUSDT",
+        "price": 0.03235,
+        "volume_24h": 14329305.96,
+        "price_change_24h": 83.81,
+        "last_update": "2024-11-27T23:31:03.488619"
+    },
+    "EXVG": {
+        "symbol": "EXVGUSDT",
+        "price": 0.01576,
+        "volume_24h": 3487206.98,
+        "price_change_24h": 2.94,
+        "last_update": "2024-11-27T23:31:03.488619"
+    },
+    "LL": {
+        "symbol": "LLUSDT",
+        "price": 0.05302,
+        "volume_24h": 26822655.24,
+        "price_change_24h": -8.27,
+        "last_update": "2024-11-27T23:31:03.488619"
+    },
+    "SAFE": {
+        "symbol": "SAFEUSDT",
+        "price": 1.1983,
+        "volume_24h": 2083491.01,
+        "price_change_24h": 15.67,
+        "last_update": "2024-11-27T23:31:03.488619"
+    },
+    "WIF": {
+        "symbol": "WIFUSDT",
+        "price": 3.116,
+        "volume_24h": 11415841.07,
+        "price_change_24h": 5.48,
+        "last_update": "2024-11-27T23:31:03.488619"
+    },
+    "LAI": {
+        "symbol": "LAIUSDT",
+        "price": 0.01716,
+        "volume_24h": 68463685.67,
+        "price_change_24h": 17.78,
+        "last_update": "2024-11-27T23:31:03.488619"
+    },
+    "GUMMY": {
+        "symbol": "GUMMYUSDT",
+        "price": 0.00684,
+        "volume_24h": 14329014.25,
+        "price_change_24h": 6.890000000000001,
+        "last_update": "2024-11-27T23:31:03.488619"
+    },
+    "SVL": {
+        "symbol": "SVLUSDT",
+        "price": 0.008534,
+        "volume_24h": 23330494.45,
+        "price_change_24h": 5.0200000000000005,
+        "last_update": "2024-11-27T23:31:03.488619"
+    },
+    "KMNO": {
+        "symbol": "KMNOUSDT",
+        "price": 0.13254,
+        "volume_24h": 10761065.19,
+        "price_change_24h": 4.06,
+        "last_update": "2024-11-27T23:31:03.488619"
+    },
+    "ZENT": {
+        "symbol": "ZENTUSDT",
+        "price": 0.0229,
+        "volume_24h": 6647116.65,
+        "price_change_24h": 1.15,
+        "last_update": "2024-11-27T23:31:03.488619"
+    },
+    "TAI": {
+        "symbol": "TAIUSDT",
+        "price": 0.25752,
+        "volume_24h": 32110786.54,
+        "price_change_24h": -0.1,
+        "last_update": "2024-11-27T23:31:03.488619"
+    },
+    "MODE": {
+        "symbol": "MODEUSDT",
+        "price": 0.02643,
+        "volume_24h": 45511636.77,
+        "price_change_24h": 22.08,
+        "last_update": "2024-11-27T23:31:03.488619"
+    },
+    "SPEC": {
+        "symbol": "SPECUSDT",
+        "price": 10.9563,
+        "volume_24h": 291277.5,
+        "price_change_24h": 15.18,
+        "last_update": "2024-11-27T23:31:03.488619"
+    },
+    "GALAXIS": {
+        "symbol": "GALAXISUSDT",
+        "price": 0.001104,
+        "volume_24h": 204732525.06,
+        "price_change_24h": 2.5100000000000002,
+        "last_update": "2024-11-27T23:31:03.488619"
+    },
+    "ZERO": {
+        "symbol": "ZEROUSDT",
+        "price": 0.0002833,
+        "volume_24h": 806720987.6,
+        "price_change_24h": 11.540000000000001,
+        "last_update": "2024-11-27T23:31:03.488619"
+    },
+    "LFT": {
+        "symbol": "LFTUSDT",
+        "price": 0.01583,
+        "volume_24h": 34295126.09,
+        "price_change_24h": -0.69,
+        "last_update": "2024-11-27T23:31:03.488619"
+    },
+    "BUBBLE": {
+        "symbol": "BUBBLEUSDT",
+        "price": 0.005613,
+        "volume_24h": 25315721.68,
+        "price_change_24h": 14.74,
+        "last_update": "2024-11-27T23:31:03.488619"
+    },
+    "PONKE": {
+        "symbol": "PONKEUSDT",
+        "price": 0.56031,
+        "volume_24h": 9336498.07,
+        "price_change_24h": 9.36,
+        "last_update": "2024-11-27T23:31:03.488619"
+    },
+    "BB": {
+        "symbol": "BBUSDT",
+        "price": 0.3989,
+        "volume_24h": 15814240.7,
+        "price_change_24h": 12.43,
+        "last_update": "2024-11-27T23:31:03.488619"
+    },
+    "CTA": {
+        "symbol": "CTAUSDT",
+        "price": 0.03174,
+        "volume_24h": 6890559.18,
+        "price_change_24h": 5.06,
+        "last_update": "2024-11-27T23:31:03.488619"
+    },
+    "NOT": {
+        "symbol": "NOTUSDT",
+        "price": 0.008626,
+        "volume_24h": 2009334386.68,
+        "price_change_24h": 6.76,
+        "last_update": "2024-11-27T23:31:03.488619"
+    },
+    "NLK": {
+        "symbol": "NLKUSDT",
+        "price": 0.017616,
+        "volume_24h": 9351045.75,
+        "price_change_24h": 0.75,
+        "last_update": "2024-11-27T23:31:03.488619"
+    },
+    "DRIFT": {
+        "symbol": "DRIFTUSDT",
+        "price": 1.2957,
+        "volume_24h": 4553766.04,
+        "price_change_24h": 6.08,
+        "last_update": "2024-11-27T23:31:03.488619"
+    },
+    "SQD": {
+        "symbol": "SQDUSDT",
+        "price": 0.03714,
+        "volume_24h": 751864.53,
+        "price_change_24h": 4.09,
+        "last_update": "2024-11-27T23:31:03.488619"
+    },
+    "NUTS": {
+        "symbol": "NUTSUSDT",
+        "price": 0.004227,
+        "volume_24h": 4365174.22,
+        "price_change_24h": 8.5,
+        "last_update": "2024-11-27T23:31:03.488619"
+    },
+    "NYAN": {
+        "symbol": "NYANUSDT",
+        "price": 0.08465,
+        "volume_24h": 5796954.73,
+        "price_change_24h": 6.36,
+        "last_update": "2024-11-27T23:31:03.488619"
+    },
+    "HLG": {
+        "symbol": "HLGUSDT",
+        "price": 0.001188,
+        "volume_24h": 10505850.95,
+        "price_change_24h": -1.3299999999999998,
+        "last_update": "2024-11-27T23:31:03.488619"
+    },
+    "MON": {
+        "symbol": "MONUSDT",
+        "price": 0.1095,
+        "volume_24h": 1689666.87,
+        "price_change_24h": 14.219999999999999,
+        "last_update": "2024-11-27T23:31:03.488619"
+    },
+    "PARAM": {
+        "symbol": "PARAMUSDT",
+        "price": 0.00907,
+        "volume_24h": 3178420.6,
+        "price_change_24h": 8.49,
+        "last_update": "2024-11-27T23:31:03.488619"
+    },
+    "ELIX": {
+        "symbol": "ELIXUSDT",
+        "price": 0.026143,
+        "volume_24h": 6919789.24,
+        "price_change_24h": -8.6,
+        "last_update": "2024-11-27T23:31:03.488619"
+    },
+    "INTX": {
+        "symbol": "INTXUSDT",
+        "price": 0.1152,
+        "volume_24h": 87466.22,
+        "price_change_24h": -2.37,
+        "last_update": "2024-11-27T23:31:03.488619"
+    },
+    "APTR": {
+        "symbol": "APTRUSDT",
+        "price": 0.01039,
+        "volume_24h": 2861010.63,
+        "price_change_24h": -5.63,
+        "last_update": "2024-11-27T23:31:03.488619"
+    },
+    "RUBY": {
+        "symbol": "RUBYUSDT",
+        "price": 0.000283,
+        "volume_24h": 187405531.05,
+        "price_change_24h": -6.909999999999999,
+        "last_update": "2024-11-27T23:31:03.488619"
+    },
+    "MOG": {
+        "symbol": "MOGUSDT",
+        "price": 2.568e-06,
+        "volume_24h": 1860685126940.0,
+        "price_change_24h": 10.74,
+        "last_update": "2024-11-27T23:31:03.488619"
+    },
+    "TAIKO": {
+        "symbol": "TAIKOUSDT",
+        "price": 1.9108,
+        "volume_24h": 2187961.76,
+        "price_change_24h": 11.89,
+        "last_update": "2024-11-27T23:31:03.488619"
+    },
+    "ULTI": {
+        "symbol": "ULTIUSDT",
+        "price": 0.01437,
+        "volume_24h": 16720881.26,
+        "price_change_24h": 6.6000000000000005,
+        "last_update": "2024-11-27T23:31:03.488619"
+    },
+    "AURORA": {
+        "symbol": "AURORAUSDT",
+        "price": 0.2147,
+        "volume_24h": 2165877.37,
+        "price_change_24h": 12.11,
+        "last_update": "2024-11-27T23:31:03.488619"
+    },
+    "AARK": {
+        "symbol": "AARKUSDT",
+        "price": 0.00365,
+        "volume_24h": 49328773.68,
+        "price_change_24h": -0.54,
+        "last_update": "2024-11-27T23:31:03.488619"
+    },
+    "IO": {
+        "symbol": "IOUSDT",
+        "price": 2.7012,
+        "volume_24h": 2759434.67,
+        "price_change_24h": 11.379999999999999,
+        "last_update": "2024-11-27T23:31:03.488619"
+    },
+    "ATH": {
+        "symbol": "ATHUSDT",
+        "price": 0.060879,
+        "volume_24h": 101984296.86,
+        "price_change_24h": 8.19,
+        "last_update": "2024-11-27T23:31:03.488619"
+    },
+    "COOKIE": {
+        "symbol": "COOKIEUSDT",
+        "price": 0.02264,
+        "volume_24h": 1771575.24,
+        "price_change_24h": 5.65,
+        "last_update": "2024-11-27T23:31:03.488619"
+    },
+    "PIRATE": {
+        "symbol": "PIRATEUSDT",
+        "price": 0.1478,
+        "volume_24h": 18379143.54,
+        "price_change_24h": -11.92,
+        "last_update": "2024-11-27T23:31:03.488619"
+    },
+    "XZK": {
+        "symbol": "XZKUSDT",
+        "price": 0.031,
+        "volume_24h": 4902727.61,
+        "price_change_24h": 4.03,
+        "last_update": "2024-11-27T23:31:03.488619"
+    },
+    "ZK": {
+        "symbol": "ZKUSDT",
+        "price": 0.1752,
+        "volume_24h": 46103233.3,
+        "price_change_24h": 10.54,
+        "last_update": "2024-11-27T23:31:03.488619"
+    },
+    "POPCAT": {
+        "symbol": "POPCATUSDT",
+        "price": 1.322,
+        "volume_24h": 22646338.65,
+        "price_change_24h": 7.64,
+        "last_update": "2024-11-27T23:31:03.488619"
+    },
+    "ZRO": {
+        "symbol": "ZROUSDT",
+        "price": 4.9051,
+        "volume_24h": 2665866.36,
+        "price_change_24h": 17.05,
+        "last_update": "2024-11-27T23:31:03.488619"
+    },
+    "NRN": {
+        "symbol": "NRNUSDT",
+        "price": 0.09868,
+        "volume_24h": 1997920.8,
+        "price_change_24h": 39.48,
+        "last_update": "2024-11-27T23:31:03.488619"
+    },
+    "MCG": {
+        "symbol": "MCGUSDT",
+        "price": 0.002974,
+        "volume_24h": 23638652.53,
+        "price_change_24h": 10.07,
+        "last_update": "2024-11-27T23:31:03.488619"
+    },
+    "ZEX": {
+        "symbol": "ZEXUSDT",
+        "price": 0.06508,
+        "volume_24h": 3755556.36,
+        "price_change_24h": 10.290000000000001,
+        "last_update": "2024-11-27T23:31:03.488619"
+    },
+    "BLAST": {
+        "symbol": "BLASTUSDT",
+        "price": 0.013077,
+        "volume_24h": 1044269057.71,
+        "price_change_24h": 23.29,
+        "last_update": "2024-11-27T23:31:03.488619"
+    },
+    "TST": {
+        "symbol": "TSTUSDT",
+        "price": 0.01041,
+        "volume_24h": 10192295.24,
+        "price_change_24h": -5.62,
+        "last_update": "2024-11-27T23:31:03.488619"
+    },
+    "WELL": {
+        "symbol": "WELLUSDT",
+        "price": 0.0003417,
+        "volume_24h": 1361631587.0,
+        "price_change_24h": -2.71,
+        "last_update": "2024-11-27T23:31:03.488619"
+    },
+    "PTC": {
+        "symbol": "PTCUSDT",
+        "price": 0.02079,
+        "volume_24h": 461453.9,
+        "price_change_24h": -3.17,
+        "last_update": "2024-11-27T23:31:03.488619"
+    },
+    "DOP1": {
+        "symbol": "DOP1USDT",
+        "price": 0.001798,
+        "volume_24h": 320065154.0,
+        "price_change_24h": 16.07,
+        "last_update": "2024-11-27T23:31:03.488619"
+    },
+    "MOCA": {
+        "symbol": "MOCAUSDT",
+        "price": 0.08282,
+        "volume_24h": 5647053.41,
+        "price_change_24h": 3.9699999999999998,
+        "last_update": "2024-11-27T23:31:03.488619"
+    },
+    "PIXFI": {
+        "symbol": "PIXFIUSDT",
+        "price": 0.005408,
+        "volume_24h": 155889667.0,
+        "price_change_24h": 25.94,
+        "last_update": "2024-11-27T23:31:03.488619"
+    },
+    "UXLINK": {
+        "symbol": "UXLINKUSDT",
+        "price": 0.5695,
+        "volume_24h": 4277600.16,
+        "price_change_24h": 5.050000000000001,
+        "last_update": "2024-11-27T23:31:03.488619"
+    },
+    "A8": {
+        "symbol": "A8USDT",
+        "price": 0.0943,
+        "volume_24h": 1439688.94,
+        "price_change_24h": 20.74,
+        "last_update": "2024-11-27T23:31:03.488619"
+    },
+    "CLOUD": {
+        "symbol": "CLOUDUSDT",
+        "price": 0.4763,
+        "volume_24h": 530240.5,
+        "price_change_24h": 2.1,
+        "last_update": "2024-11-27T23:31:03.488619"
+    },
+    "ZKL": {
+        "symbol": "ZKLUSDT",
+        "price": 0.11605,
+        "volume_24h": 4455687.2,
+        "price_change_24h": 4.49,
+        "last_update": "2024-11-27T23:31:03.488619"
+    },
+    "AVAIL": {
+        "symbol": "AVAILUSDT",
+        "price": 0.12411,
+        "volume_24h": 2748280.1,
+        "price_change_24h": 5.3,
+        "last_update": "2024-11-27T23:31:03.488619"
+    },
+    "L3": {
+        "symbol": "L3USDT",
+        "price": 0.08591,
+        "volume_24h": 38292724.9,
+        "price_change_24h": 10.38,
+        "last_update": "2024-11-27T23:31:03.488619"
+    },
+    "RENDER": {
+        "symbol": "RENDERUSDT",
+        "price": 7.928,
+        "volume_24h": 2033189.0,
+        "price_change_24h": 10.22,
+        "last_update": "2024-11-27T23:31:03.488619"
+    },
+    "G": {
+        "symbol": "GUSDT",
+        "price": 0.03659,
+        "volume_24h": 2422598.0,
+        "price_change_24h": 10.780000000000001,
+        "last_update": "2024-11-27T23:31:03.488619"
+    },
+    "DOGS": {
+        "symbol": "DOGSUSDT",
+        "price": 0.0007323,
+        "volume_24h": 14817998069.0,
+        "price_change_24h": 13.309999999999999,
+        "last_update": "2024-11-27T23:31:03.488619"
+    },
+    "NEIRO": {
+        "symbol": "NEIROUSDT",
+        "price": 0.0756,
+        "volume_24h": 35528094.78,
+        "price_change_24h": 8.15,
+        "last_update": "2024-11-27T23:31:03.488619"
+    },
+    "ORDER": {
+        "symbol": "ORDERUSDT",
+        "price": 0.1762,
+        "volume_24h": 13385575.8,
+        "price_change_24h": 23.39,
+        "last_update": "2024-11-27T23:31:03.488619"
+    },
+    "MAK": {
+        "symbol": "MAKUSDT",
+        "price": 0.05956,
+        "volume_24h": 8544863.64,
+        "price_change_24h": -5.680000000000001,
+        "last_update": "2024-11-27T23:31:03.488619"
+    },
+    "SUNDOG": {
+        "symbol": "SUNDOGUSDT",
+        "price": 0.14776,
+        "volume_24h": 319008493.63,
+        "price_change_24h": 11.21,
+        "last_update": "2024-11-27T23:31:03.488619"
+    },
+    "CATI": {
+        "symbol": "CATIUSDT",
+        "price": 0.5736,
+        "volume_24h": 5881205.77,
+        "price_change_24h": 12.25,
+        "last_update": "2024-11-27T23:31:03.488619"
+    },
+    "HMSTR": {
+        "symbol": "HMSTRUSDT",
+        "price": 0.00389,
+        "volume_24h": 502276274.58,
+        "price_change_24h": 11.459999999999999,
+        "last_update": "2024-11-27T23:31:03.488619"
+    },
+    "SOCIAL": {
+        "symbol": "SOCIALUSDT",
+        "price": 0.001908,
+        "volume_24h": 231375616.84,
+        "price_change_24h": 0.95,
+        "last_update": "2024-11-27T23:31:03.488619"
+    },
+    "EGP1": {
+        "symbol": "EGP1USDT",
+        "price": 2.5982,
+        "volume_24h": 30533.23,
+        "price_change_24h": 6.68,
+        "last_update": "2024-11-27T23:31:03.488619"
+    },
+    "DAPP": {
+        "symbol": "DAPPUSDT",
+        "price": 0.222,
+        "volume_24h": 1510625.24,
+        "price_change_24h": 9.2,
+        "last_update": "2024-11-27T23:31:03.488619"
+    },
+    "EIGEN": {
+        "symbol": "EIGENUSDT",
+        "price": 3.86,
+        "volume_24h": 3998832.02,
+        "price_change_24h": 19.28,
+        "last_update": "2024-11-27T23:31:03.488619"
+    },
+    "CATS": {
+        "symbol": "CATSUSDT",
+        "price": 3.51e-05,
+        "volume_24h": 6939172844.0,
+        "price_change_24h": 8.0,
+        "last_update": "2024-11-27T23:31:03.488619"
+    },
+    "NAVX": {
+        "symbol": "NAVXUSDT",
+        "price": 0.1261,
+        "volume_24h": 5493456.9,
+        "price_change_24h": -0.5499999999999999,
+        "last_update": "2024-11-27T23:31:03.488619"
+    },
+    "BBSOL": {
+        "symbol": "BBSOLUSDT",
+        "price": 249.44,
+        "volume_24h": 2671.534,
+        "price_change_24h": 6.4,
+        "last_update": "2024-11-27T23:31:03.488619"
+    },
+    "CARV": {
+        "symbol": "CARVUSDT",
+        "price": 0.892,
+        "volume_24h": 40365736.4,
+        "price_change_24h": 5.93,
+        "last_update": "2024-11-27T23:31:03.488619"
+    },
+    "ZAP": {
+        "symbol": "ZAPUSDT",
+        "price": 0.0465,
+        "volume_24h": 485989.0,
+        "price_change_24h": -1.15,
+        "last_update": "2024-11-27T23:31:03.488619"
+    },
+    "DEEP": {
+        "symbol": "DEEPUSDT",
+        "price": 0.057342,
+        "volume_24h": 25502651.0,
+        "price_change_24h": 1.9900000000000002,
+        "last_update": "2024-11-27T23:31:03.488619"
+    },
+    "PUFFER": {
+        "symbol": "PUFFERUSDT",
+        "price": 0.6793,
+        "volume_24h": 73854026.1,
+        "price_change_24h": 77.46,
+        "last_update": "2024-11-27T23:31:03.488619"
+    },
+    "DBR": {
+        "symbol": "DBRUSDT",
+        "price": 0.026,
+        "volume_24h": 20608357.0,
+        "price_change_24h": 2.0,
+        "last_update": "2024-11-27T23:31:03.488619"
+    },
+    "PUFF": {
+        "symbol": "PUFFUSDT",
+        "price": 0.10475,
+        "volume_24h": 1715822.0,
+        "price_change_24h": 0.5599999999999999,
+        "last_update": "2024-11-27T23:31:03.488619"
+    },
+    "SCR": {
+        "symbol": "SCRUSDT",
+        "price": 0.8424,
+        "volume_24h": 2565456.4,
+        "price_change_24h": 21.099999999999998,
+        "last_update": "2024-11-27T23:31:03.488619"
+    },
+    "X": {
+        "symbol": "XUSDT",
+        "price": 0.00019634,
+        "volume_24h": 37814391696.0,
+        "price_change_24h": 5.050000000000001,
+        "last_update": "2024-11-27T23:31:03.488619"
+    },
+    "COOK": {
+        "symbol": "COOKUSDT",
+        "price": 0.0283,
+        "volume_24h": 74547249.0,
+        "price_change_24h": 7.2700000000000005,
+        "last_update": "2024-11-27T23:31:03.488619"
+    },
+    "GRASS": {
+        "symbol": "GRASSUSDT",
+        "price": 3.1645,
+        "volume_24h": 7840617.8,
+        "price_change_24h": 2.3800000000000003,
+        "last_update": "2024-11-27T23:31:03.488619"
+    },
+    "KRO": {
+        "symbol": "KROUSDT",
+        "price": 0.0406,
+        "volume_24h": 1754245.0,
+        "price_change_24h": -0.29,
+        "last_update": "2024-11-27T23:31:03.488619"
+    },
+    "SMILE": {
+        "symbol": "SMILEUSDT",
+        "price": 0.1668,
+        "volume_24h": 6102643.5,
+        "price_change_24h": 4.25,
+        "last_update": "2024-11-27T23:31:03.488619"
+    },
+    "KAIA": {
+        "symbol": "KAIAUSDT",
+        "price": 0.1872,
+        "volume_24h": 6738110.0,
+        "price_change_24h": 5.35,
+        "last_update": "2024-11-27T23:31:03.488619"
+    },
+    "SWELL": {
+        "symbol": "SWELLUSDT",
+        "price": 0.04361,
+        "volume_24h": 266355419.0,
+        "price_change_24h": 25.28,
+        "last_update": "2024-11-27T23:31:03.488619"
+    },
+    "BBQ": {
+        "symbol": "BBQUSDT",
+        "price": 0.03415,
+        "volume_24h": 287548679.0,
+        "price_change_24h": 7.969999999999999,
+        "last_update": "2024-11-27T23:31:03.488619"
+    },
+    "NS": {
+        "symbol": "NSUSDT",
+        "price": 0.24712,
+        "volume_24h": 52179901.0,
+        "price_change_24h": -10.75,
+        "last_update": "2024-11-27T23:31:03.488619"
+    },
+    "GOAT": {
+        "symbol": "GOATUSDT",
+        "price": 0.9115,
+        "volume_24h": 50023315.0,
+        "price_change_24h": 21.34,
+        "last_update": "2024-11-27T23:31:03.488619"
+    },
+    "CMETH": {
+        "symbol": "CMETHUSDT",
+        "price": 3722.51,
+        "volume_24h": 2606.8371,
+        "price_change_24h": 8.260000000000002,
+        "last_update": "2024-11-27T23:31:03.488619"
+    },
+    "MORPHO": {
+        "symbol": "MORPHOUSDT",
+        "price": 1.7755,
+        "volume_24h": 29455288.3,
+        "price_change_24h": 93.28,
+        "last_update": "2024-11-27T23:31:03.488619"
+    },
+    "NEIROCTO": {
+        "symbol": "NEIROCTOUSDT",
+        "price": 0.0017136,
+        "volume_24h": 507021841.0,
+        "price_change_24h": 3.2300000000000004,
+        "last_update": "2024-11-27T23:31:03.488619"
+    },
+    "STOP": {
+        "symbol": "STOPUSDT",
+        "price": 0.2414,
+        "volume_24h": 58218201.0,
+        "price_change_24h": -1.9900000000000002,
+        "last_update": "2024-11-27T23:31:03.488619"
+    },
+    "BAN": {
+        "symbol": "BANUSDT",
+        "price": 0.1252,
+        "volume_24h": 63657870.0,
+        "price_change_24h": -0.48,
+        "last_update": "2024-11-27T23:31:03.488619"
+    },
+    "OL": {
+        "symbol": "OLUSDT",
+        "price": 0.13678,
+        "volume_24h": 102210880.0,
+        "price_change_24h": -9.86,
+        "last_update": "2024-11-27T23:31:03.488619"
+    },
+    "VIRTUAL": {
+        "symbol": "VIRTUALUSDT",
+        "price": 0.8776,
+        "volume_24h": 17312492.0,
+        "price_change_24h": 23.0,
+        "last_update": "2024-11-27T23:31:03.488619"
+    },
+    "MEMEFI": {
+        "symbol": "MEMEFIUSDT",
+        "price": 0.012769,
+        "volume_24h": 3243967512.0,
+        "price_change_24h": 2.0500000000000003,
+        "last_update": "2024-11-27T23:31:03.488619"
+    },
+    "PNUT": {
+        "symbol": "PNUTUSDT",
+        "price": 1.0454,
+        "volume_24h": 7561240.3,
+        "price_change_24h": -2.29,
+        "last_update": "2024-11-27T23:31:03.488619"
+    },
+    "SPX": {
+        "symbol": "SPXUSDT",
+        "price": 0.6247,
+        "volume_24h": 5807655.9,
+        "price_change_24h": 33.43,
+        "last_update": "2024-11-27T23:31:03.488619"
+    },
+    "THRUST": {
+        "symbol": "THRUSTUSDT",
+        "price": 0.1363,
+        "volume_24h": 28789571.0,
+        "price_change_24h": 70.38,
+        "last_update": "2024-11-27T23:31:03.488619"
+    },
+    "ZRC": {
+        "symbol": "ZRCUSDT",
+        "price": 0.08285,
+        "volume_24h": 272862340.0,
+        "price_change_24h": 26.31,
+        "last_update": "2024-11-27T23:31:03.488619"
+    },
+    "LUCE": {
+        "symbol": "LUCEUSDT",
+        "price": 0.13979,
+        "volume_24h": 15921906.0,
+        "price_change_24h": 5.12,
+        "last_update": "2024-11-27T23:31:03.488619"
+    },
+    "CHILLGUY": {
+        "symbol": "CHILLGUYUSDT",
+        "price": 0.5836,
+        "volume_24h": 42970911.0,
+        "price_change_24h": 25.16,
+        "last_update": "2024-11-27T23:31:03.488619"
+    },
+    "SUPRA": {
+        "symbol": "SUPRAUSDT",
+        "price": 0.012542,
+        "volume_24h": 1290942762.0,
+        "price_change_24h": 318.07,
+        "last_update": "2024-11-27T23:31:03.488619"
+    }
+}

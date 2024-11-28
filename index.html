@@ -1,0 +1,152 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Учебная Биржа</title>
+    <script src="https://telegram.org/js/telegram-web-app.js"></script>
+    <style>
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif;
+            margin: 0;
+            padding: 16px;
+            color: var(--tg-theme-text-color);
+            background: var(--tg-theme-bg-color);
+        }
+        .container {
+            max-width: 600px;
+            margin: 0 auto;
+        }
+        .card {
+            background: var(--tg-theme-secondary-bg-color);
+            border-radius: 10px;
+            padding: 15px;
+            margin: 10px 0;
+        }
+        .balance {
+            font-size: 24px;
+            font-weight: bold;
+            text-align: center;
+            margin: 20px 0;
+        }
+        .asset {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            padding: 10px;
+            border-bottom: 1px solid var(--tg-theme-hint-color);
+        }
+        .asset-name {
+            font-weight: bold;
+        }
+        .asset-price {
+            color: var(--tg-theme-hint-color);
+        }
+        .price-up {
+            color: #4CAF50;
+        }
+        .price-down {
+            color: #F44336;
+        }
+        .button {
+            background: var(--tg-theme-button-color);
+            color: var(--tg-theme-button-text-color);
+            border: none;
+            padding: 10px 20px;
+            border-radius: 8px;
+            cursor: pointer;
+            margin: 8px 0;
+            width: 100%;
+        }
+        .button-group {
+            display: flex;
+            gap: 10px;
+        }
+        .button-group .button {
+            width: 50%;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <div class="balance">
+            Баланс: $10,000.00
+        </div>
+        
+        <div class="card">
+            <h3>Ваш портфель</h3>
+            <div class="asset">
+                <span class="asset-name">USD</span>
+                <span class="asset-price">$10,000.00</span>
+            </div>
+        </div>
+
+        <div class="card">
+            <h3>Доступные активы</h3>
+            <div class="asset">
+                <div>
+                    <span class="asset-name">Bitcoin (BTC)</span>
+                    <br>
+                    <span class="asset-price price-up">$45,000.00 (+2.5%)</span>
+                </div>
+                <div class="button-group">
+                    <button class="button" onclick="buy('BTC')">Купить</button>
+                    <button class="button" onclick="sell('BTC')">Продать</button>
+                </div>
+            </div>
+            <div class="asset">
+                <div>
+                    <span class="asset-name">Ethereum (ETH)</span>
+                    <br>
+                    <span class="asset-price price-down">$2,800.00 (-1.2%)</span>
+                </div>
+                <div class="button-group">
+                    <button class="button" onclick="buy('ETH')">Купить</button>
+                    <button class="button" onclick="sell('ETH')">Продать</button>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <script>
+        let tg = window.Telegram.WebApp;
+        tg.expand();
+
+        // Имитация данных пользователя
+        let userData = {
+            balance: 10000,
+            portfolio: {
+                USD: 10000,
+                BTC: 0,
+                ETH: 0
+            }
+        };
+
+        function buy(asset) {
+            tg.showPopup({
+                title: 'Покупка ' + asset,
+                message: 'Введите сумму для покупки:',
+                buttons: [
+                    {id: 'cancel', type: 'cancel', text: 'Отмена'},
+                    {id: 'buy', type: 'ok', text: 'Купить'}
+                ]
+            });
+        }
+
+        function sell(asset) {
+            if (userData.portfolio[asset] <= 0) {
+                tg.showAlert('У вас нет ' + asset + ' для продажи');
+                return;
+            }
+            tg.showPopup({
+                title: 'Продажа ' + asset,
+                message: 'Введите сумму для продажи:',
+                buttons: [
+                    {id: 'cancel', type: 'cancel', text: 'Отмена'},
+                    {id: 'sell', type: 'ok', text: 'Продать'}
+                ]
+            });
+        }
+    </script>
+</body>
+</html>

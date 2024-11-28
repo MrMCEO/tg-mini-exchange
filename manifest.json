@@ -1,0 +1,7 @@
+{
+    "name": "Мини-приложение",
+    "short_name": "МиниАпп",
+    "description": "Мое первое мини-приложение в Telegram",
+    "version": "1.0.0",
+    "start_url": "/index.html"
+}
